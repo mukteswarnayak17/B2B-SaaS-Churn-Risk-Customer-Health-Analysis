@@ -1,0 +1,1201 @@
+account_id,company_name,industry,country,employee_count,signup_date,plan
+221118,Xenon Analytics,Logistics,Japan,3,2024-07-22 17:11:47,Starter
+697547,TriggerPoint,Software,Brazil,75,2025-02-08 13:10:44,Growth
+753247,MeshWorks,Manufacturing,United Kingdom,30,2023-11-17 15:15:33,Growth
+931016,Catalyst CRM,Retail,Germany,58,2023-06-13 07:14:32,Growth
+254108,Junction Cloud,Financial Services,Canada,11,2024-04-18 18:14:32,Starter
+394508,StackBase,Software,Germany,21,2023-08-28 09:25:01,Starter
+919775,HorizonSaaS,Financial Services,Netherlands,56,2024-03-06 14:38:08,Growth
+363409,LaunchPad HQ,Financial Services,Canada,32,2025-01-08 10:51:45,Growth
+423101,Keystroke AI,Software,Brazil,310,2024-08-06 15:49:55,Business
+644079,PipelineIO,Manufacturing,Canada,58,2024-04-07 14:36:53,Growth
+452461,Inline Systems,Financial Services,Canada,30,2023-11-11 12:51:24,Growth
+282947,Lattice HQ,Retail,United Kingdom,5,2023-05-14 10:53:40,Starter
+645195,JetMetrics,Education,Australia,11,2024-08-08 14:27:56,Starter
+812313,Gradient Labs,Financial Services,Canada,21,2023-08-02 16:25:40,Starter
+118279,HubStack,Healthcare,India,34,2025-02-04 12:41:37,Growth
+421775,Envoy Platforms,Healthcare,Netherlands,7,2024-06-30 07:39:12,Starter
+341901,TriggerPoint Labs,Healthcare,Japan,22,2025-01-23 09:58:31,Starter
+909740,CloudPeak Systems,Education,Japan,116,2024-09-19 13:01:43,Growth
+259373,PipelineIO Labs,Software,United States,16,2024-08-27 19:41:43,Starter
+173985,Lattice HQ Labs,Retail,Germany,6,2023-11-05 15:16:50,Starter
+649882,GridLogic,Software,Australia,7,2024-12-08 14:07:40,Starter
+552380,Junction Cloud Labs,Software,India,139,2024-04-18 07:34:21,Business
+527428,TriggerPoint Systems,Financial Services,Australia,304,2025-08-21 15:08:18,Business
+661655,InfraPoint,Retail,Netherlands,5,2023-03-27 11:20:52,Starter
+761986,TriggerPoint Group,Logistics,India,122,2024-03-26 07:40:13,Business
+799789,GridLogic Labs,Financial Services,United States,20,2025-05-30 03:44:46,Starter
+682986,InfraPoint Labs,Software,France,14,2025-04-30 09:12:15,Starter
+342116,HubStack Labs,Software,United States,16,2025-08-24 14:17:40,Starter
+699585,Deployly,Logistics,Japan,7,2024-12-17 09:14:31,Growth
+799901,FunnelSoft,Manufacturing,Germany,84,2025-06-30 08:56:37,Growth
+260118,NexusOne,Software,Canada,231,2025-01-15 08:30:47,Business
+821114,VaultStream,Software,Germany,43,2025-01-13 10:45:50,Growth
+516478,QueryForge,Retail,Japan,3,2024-06-04 08:09:21,Starter
+676614,VaultStream Labs,Retail,Australia,44,2025-07-16 12:38:09,Growth
+591806,StackBase Labs,Retail,Japan,18,2024-11-20 14:26:23,Growth
+980608,QueryForge Labs,Financial Services,United Kingdom,27,2024-08-26 09:20:21,Growth
+814957,ZeroFriction,Software,Brazil,25,2025-06-01 17:09:42,Growth
+198781,Envoy Platforms Labs,Software,France,23,2024-09-10 14:23:19,Starter
+398032,Gradient Labs Labs,Software,France,3,2025-09-22 15:49:23,Starter
+641328,Deployly Labs,Healthcare,India,17,2024-11-19 16:56:32,Starter
+499802,HubStack Systems,Software,Australia,10,2024-01-15 12:26:04,Starter
+448227,VaultStream Systems,Software,Australia,33,2025-06-09 12:54:27,Growth
+872118,TriggerPoint Technologies,Financial Services,Japan,1043,2025-02-23 15:25:11,Enterprise
+206487,Unified Ops,Software,Australia,6,2024-09-30 13:30:01,Starter
+203708,Deployly Systems,Financial Services,Canada,90,2025-05-02 08:58:18,Growth
+847537,Catalyst CRM Labs,Software,Japan,842,2025-06-16 12:09:50,Enterprise
+938205,Xenon Analytics Labs,Education,United States,23,2025-02-07 21:47:02,Starter
+724555,JetMetrics Labs,Retail,Netherlands,14,2024-11-01 18:04:04,Starter
+318162,Junction Cloud Systems,Logistics,Japan,48,2023-01-31 14:24:51,Growth
+956011,Unified Ops Labs,Financial Services,Germany,69,2025-03-29 14:55:04,Growth
+165228,LaunchPad HQ Labs,Retail,United Kingdom,88,2023-05-19 09:39:40,Growth
+141893,Omnisend,Software,United Kingdom,16,2023-04-08 14:11:40,Starter
+650852,Omnisend Labs,Software,Germany,11,2023-11-30 22:52:26,Starter
+450199,GridLogic Systems,Education,France,15,2025-05-09 12:24:46,Starter
+228677,VaultStream Group,Healthcare,Australia,7,2023-07-27 09:34:36,Starter
+837734,ZeroFriction Labs,Logistics,United States,50,2025-09-23 08:11:08,Growth
+907406,MeshWorks Labs,Manufacturing,Brazil,5,2024-07-29 08:34:49,Starter
+241202,Unified Ops Systems,Logistics,Netherlands,50,2024-04-29 12:06:25,Growth
+112414,Momentum Tools,Financial Services,Germany,22,2023-02-18 19:20:29,Starter
+996360,NodeSync,Financial Services,Brazil,15,2025-02-26 08:47:23,Starter
+897529,JetMetrics Systems,Education,United States,3,2024-09-20 09:56:52,Starter
+333795,HubStack Group,Financial Services,United States,103,2024-12-04 08:34:41,Growth
+951550,Junction Cloud Group,Financial Services,United Kingdom,8,2023-08-04 09:09:50,Starter
+147538,LaunchPad HQ Systems,Manufacturing,Australia,5,2024-08-17 07:46:38,Starter
+230161,WorksiteOS,Financial Services,Canada,19,2023-04-30 13:08:58,Growth
+768193,FlowState,Healthcare,Germany,118,2025-04-07 13:11:32,Growth
+270148,Axiom Labs,Retail,Australia,38,2024-07-05 08:47:08,Growth
+619919,ZeroFriction Systems,Financial Services,United States,12,2024-12-07 10:41:46,Starter
+473607,DataBridge Pro,Financial Services,United States,3,2024-06-16 21:32:01,Starter
+450789,Inline Systems Labs,Healthcare,France,162,2023-11-17 11:58:55,Business
+271150,WorksiteOS Labs,Software,Netherlands,85,2025-06-24 19:20:41,Growth
+414105,Beacon Software,Logistics,Australia,12,2023-11-09 14:47:16,Starter
+477382,VaultStream Technologies,Financial Services,Australia,38,2023-02-02 15:02:08,Growth
+952954,Kinetic AI,Software,France,32,2023-08-03 20:58:36,Growth
+600774,Basecamp Analytics,Manufacturing,United States,462,2024-09-01 10:44:21,Business
+129289,PipelineIO Systems,Software,Brazil,20,2024-08-08 10:51:38,Starter
+729499,WorksiteOS Systems,Healthcare,United Kingdom,78,2024-04-28 08:34:22,Growth
+304212,Unified Ops Group,Retail,United Kingdom,24,2023-02-28 08:41:30,Starter
+769395,JetMetrics Group,Software,Netherlands,6,2025-07-19 09:20:31,Starter
+892300,InfraPoint Systems,Retail,France,33,2024-06-29 09:26:15,Growth
+613197,Inline Systems Systems,Software,India,67,2023-04-01 07:44:20,Growth
+843432,Lattice HQ Systems,Healthcare,Japan,117,2023-01-10 06:07:31,Starter
+768839,MeshWorks Systems,Software,United Kingdom,3,2025-07-14 14:39:10,Starter
+759736,NexusOne Labs,Manufacturing,Canada,82,2024-07-22 22:58:49,Growth
+902628,Xenon Analytics Systems,Manufacturing,Australia,137,2025-05-23 08:55:23,Business
+380513,Deployly Group,Healthcare,Germany,13,2025-08-07 15:14:21,Starter
+875061,Xenon Analytics Group,Retail,India,21,2024-10-20 11:17:40,Starter
+713907,FlowState Labs,Retail,India,21,2024-02-16 10:43:11,Starter
+832722,HubStack Technologies,Retail,United Kingdom,153,2025-07-04 12:40:13,Business
+620640,QueryForge Systems,Manufacturing,France,72,2023-12-29 18:33:31,Growth
+290736,Relay Systems,Manufacturing,Canada,188,2024-02-06 07:47:11,Enterprise
+893066,DataBridge Pro Labs,Software,France,18,2024-05-03 15:03:02,Starter
+769811,StackBase Systems,Financial Services,Canada,34,2024-08-05 09:00:08,Business
+633095,Relay Systems Labs,Education,Canada,58,2025-03-30 05:08:30,Growth
+692863,MeshWorks Group,Software,Netherlands,13,2024-06-17 14:07:02,Starter
+681503,Kinetic AI Labs,Education,Netherlands,5,2024-10-17 11:41:25,Starter
+679810,VaultStream Digital,Retail,Canada,44,2023-11-20 12:58:59,Growth
+280156,Kinetic AI Systems,Healthcare,United States,117,2023-11-30 12:23:22,Growth
+316254,Inline Systems Group,Healthcare,Japan,29,2024-10-01 15:47:01,Growth
+256035,Deployly Technologies,Healthcare,Germany,17,2023-11-30 18:06:46,Starter
+697314,Junction Cloud Technologies,Software,Canada,49,2023-06-05 10:12:29,Growth
+566579,Kinetic AI Group,Education,Canada,52,2025-05-06 14:52:10,Business
+290620,Kinetic AI Technologies,Retail,Canada,13,2024-10-03 19:52:21,Starter
+662747,ZeroFriction Group,Manufacturing,Brazil,1173,2025-01-23 07:20:26,Enterprise
+157478,HubStack Digital,Healthcare,United States,15,2025-08-05 14:53:20,Starter
+721049,WorksiteOS Group,Manufacturing,India,14,2024-06-26 07:32:04,Starter
+261774,Keystroke AI Labs,Education,Brazil,108,2025-06-14 19:40:24,Growth
+824578,InfraPoint Group,Software,Australia,40,2025-07-29 19:00:07,Growth
+565218,Gradient Labs Systems,Education,Germany,206,2025-01-14 09:47:31,Business
+194570,Amplitude Corp,Logistics,United Kingdom,3,2023-07-23 14:21:51,Starter
+201117,Xenon Analytics Technologies,Education,United Kingdom,30,2024-09-14 17:27:52,Growth
+969635,HorizonSaaS Labs,Healthcare,Japan,8,2025-04-16 00:56:02,Starter
+292475,HubStack Partners,Retail,Australia,52,2024-01-19 16:26:50,Business
+395744,Beacon Software Labs,Financial Services,United States,5,2023-02-24 11:25:51,Starter
+395913,Omnisend Systems,Software,Brazil,60,2024-02-15 15:42:09,Growth
+623050,ZeroFriction Technologies,Education,United States,7,2025-07-07 08:43:39,Starter
+364738,Omnisend Group,Financial Services,Brazil,55,2024-01-23 08:27:44,Growth
+383347,InfraPoint Technologies,Financial Services,Canada,7,2024-04-10 14:21:22,Starter
+619995,Inline Systems Technologies,Logistics,United States,20,2025-09-06 15:08:29,Starter
+943067,Lattice HQ Group,Education,United States,50,2025-01-07 15:57:46,Growth
+275252,NodeSync Labs,Logistics,Netherlands,51,2025-01-24 07:35:10,Growth
+617646,GridLogic Group,Logistics,United Kingdom,30,2023-02-26 12:28:50,Growth
+240194,DataBridge Pro Systems,Financial Services,Brazil,9,2023-04-10 21:15:40,Starter
+571416,Kinetic AI Digital,Financial Services,United Kingdom,54,2025-03-30 13:02:11,Growth
+332026,NexusOne Systems,Retail,United States,3,2024-10-16 18:10:53,Starter
+157411,FunnelSoft Labs,Financial Services,Germany,129,2024-11-02 14:40:01,Business
+288393,DataBridge Pro Group,Retail,India,46,2023-11-09 15:28:41,Growth
+166599,YieldMetrics,Software,Brazil,52,2023-08-05 15:45:36,Growth
+727242,Deployly Digital,Education,Germany,9,2024-05-17 17:41:02,Starter
+288150,FlowState Systems,Retail,United Kingdom,44,2025-02-12 16:56:34,Growth
+689786,HorizonSaaS Systems,Manufacturing,Japan,21,2023-04-05 09:19:16,Starter
+993977,NexusOne Group,Software,Australia,5,2025-02-17 09:16:52,Starter
+611661,ZeroFriction Digital,Healthcare,Brazil,12,2023-03-29 17:16:45,Starter
+875381,Junction Cloud Digital,Financial Services,Canada,51,2023-06-10 11:34:59,Growth
+813618,HubStack Analytics,Software,Brazil,10,2025-07-28 16:32:35,Starter
+668250,Catalyst CRM Systems,Logistics,Netherlands,229,2024-04-07 08:44:53,Business
+836507,Beacon Software Systems,Software,Brazil,9,2024-02-07 17:42:29,Starter
+713834,Xenon Analytics Digital,Retail,United Kingdom,7,2024-08-16 10:23:26,Starter
+740617,VaultStream Partners,Healthcare,Germany,151,2023-10-27 16:10:09,Business
+670800,StackBase Group,Education,France,109,2023-09-14 10:11:17,Growth
+574768,ZeroFriction Partners,Software,United Kingdom,86,2023-05-12 10:58:08,Growth
+822504,Omnisend Technologies,Education,United States,37,2023-05-01 09:28:58,Growth
+262565,Gradient Labs Group,Healthcare,Germany,37,2023-03-08 11:28:24,Growth
+561696,Basecamp Analytics Labs,Financial Services,India,8,2025-08-27 13:26:53,Starter
+888218,ZeroFriction Analytics,Software,Australia,4,2025-02-14 10:01:03,Starter
+479242,Keystroke AI Systems,Software,Brazil,69,2025-08-28 15:13:40,Growth
+424962,CloudPeak Systems Labs,Financial Services,Brazil,32,2024-08-23 12:06:56,Growth
+369202,Gradient Labs Technologies,Retail,Canada,43,2023-02-07 19:45:36,Growth
+136409,NodeSync Systems,Manufacturing,Brazil,9,2025-06-10 11:25:09,Starter
+685576,TriggerPoint Digital,Education,Germany,43,2025-07-20 11:48:05,Growth
+590704,InfraPoint Digital,Software,Japan,261,2023-10-20 23:31:00,Growth
+676397,Keystroke AI Group,Software,Germany,68,2025-04-11 10:53:44,Growth
+952105,DataBridge Pro Technologies,Manufacturing,United Kingdom,25,2024-09-26 10:39:55,Growth
+531301,ZeroFriction Solutions,Healthcare,Netherlands,3,2023-05-20 20:01:27,Starter
+686117,Relay Systems Systems,Retail,Germany,7,2023-05-31 16:50:21,Starter
+265516,DataBridge Pro Digital,Logistics,India,16,2025-02-18 18:27:41,Starter
+119663,Amplitude Corp Labs,Software,Brazil,122,2025-03-06 13:34:53,Business
+440025,DataBridge Pro Partners,Education,France,74,2023-01-16 16:30:54,Growth
+839821,WorksiteOS Technologies,Software,United Kingdom,25,2025-08-12 16:27:42,Growth
+406504,FlowState Group,Education,Netherlands,450,2025-07-24 19:39:19,Business
+591371,NexusOne Technologies,Software,Japan,58,2025-08-30 14:43:05,Growth
+592265,NodeSync Group,Healthcare,Japan,20,2025-09-24 14:22:26,Starter
+969783,QueryForge Group,Healthcare,Japan,58,2025-08-15 14:05:23,Growth
+105266,Axiom Labs Labs,Education,Canada,7,2024-04-28 17:20:43,Starter
+362499,InfraPoint Partners,Retail,Netherlands,43,2024-09-01 11:00:17,Growth
+227254,Kinetic AI Partners,Software,United Kingdom,6,2024-09-20 13:25:50,Starter
+371884,TriggerPoint Partners,Financial Services,France,14,2023-02-15 14:37:54,Starter
+439406,LaunchPad HQ Group,Education,Brazil,16,2025-02-23 13:28:31,Starter
+271695,HubStack Solutions,Manufacturing,Australia,20,2023-11-17 10:45:20,Starter
+295167,StackBase Technologies,Healthcare,Germany,4,2023-08-15 13:32:29,Starter
+175483,EdgeFlow Technologies,Software,Australia,440,2024-02-10 20:08:46,Business
+900536,Basecamp Analytics Systems,Healthcare,Brazil,4,2025-02-03 15:23:40,Starter
+531456,FlowState Technologies,Healthcare,France,7,2024-05-20 20:10:33,Starter
+775527,Axiom Labs Systems,Software,France,324,2024-01-27 15:48:29,Business
+441844,Deployly Partners,Software,France,97,2023-06-16 03:50:11,Growth
+358368,TriggerPoint Analytics,Healthcare,France,9,2023-06-21 10:01:45,Starter
+488220,DataBridge Pro Analytics,Software,Brazil,82,2025-02-21 17:47:51,Growth
+540658,CloudPeak Systems Systems,Logistics,India,22,2024-07-28 10:04:46,Starter
+967279,LaunchPad HQ Technologies,Healthcare,Brazil,9,2024-05-06 11:26:45,Starter
+577783,Xenon Analytics Partners,Healthcare,Germany,43,2025-05-05 09:24:35,Growth
+253622,Lattice HQ Technologies,Education,Australia,62,2024-12-18 08:52:08,Growth
+935611,FlowState Digital,Retail,Netherlands,3,2024-09-26 11:14:02,Starter
+255136,Keystroke AI Technologies,Financial Services,United States,10,2024-06-19 06:08:09,Starter
+444888,Beacon Software Group,Education,France,88,2024-11-08 15:16:35,Growth
+290492,NexusOne Digital,Software,United States,9,2023-02-01 09:28:27,Starter
+516432,InfraPoint Analytics,Financial Services,Netherlands,57,2025-05-22 10:47:41,Growth
+504080,Catalyst CRM Group,Education,Brazil,6,2023-02-16 16:15:07,Starter
+539755,MeshWorks Technologies,Retail,Japan,21,2025-04-12 06:16:09,Starter
+481016,Basecamp Analytics Group,Manufacturing,Germany,57,2025-03-21 11:47:32,Growth
+136968,QueryForge Technologies,Healthcare,United States,50,2025-01-03 07:40:43,Growth
+269555,Gradient Labs Digital,Retail,United Kingdom,110,2024-02-15 07:40:36,Growth
+157315,FlowState Partners,Retail,United States,3,2023-07-10 13:25:32,Starter
+983167,VaultStream Analytics,Retail,United States,104,2024-08-28 09:43:21,Growth
+586841,Lattice HQ Digital,Financial Services,Netherlands,46,2024-03-15 11:44:12,Growth
+339830,Catalyst CRM Technologies,Healthcare,Netherlands,297,2025-01-28 13:48:49,Business
+606408,Relay Systems Group,Manufacturing,India,17,2025-07-31 13:00:38,Starter
+177009,Junction Cloud Partners,Education,Netherlands,19,2024-08-29 06:49:28,Starter
+301631,JetMetrics Technologies,Retail,Canada,75,2024-05-27 14:35:42,Growth
+567817,Axiom Labs Group,Financial Services,India,16,2024-08-29 11:35:07,Starter
+392724,InfraPoint Solutions,Retail,Japan,44,2023-05-20 08:55:20,Growth
+610566,Catalyst CRM Digital,Education,Netherlands,52,2025-04-01 11:05:45,Growth
+790366,Junction Cloud Analytics,Financial Services,United Kingdom,9,2024-12-15 10:49:05,Starter
+365756,ZeroFriction Networks,Manufacturing,Netherlands,4,2025-05-31 10:55:57,Starter
+968396,Keystroke AI Digital,Retail,Australia,6,2023-10-10 17:40:07,Starter
+486582,Inline Systems Digital,Manufacturing,Germany,8,2024-06-20 11:52:52,Starter
+896132,TriggerPoint Solutions,Education,France,8,2024-02-25 15:55:26,Starter
+402163,Omnisend Digital,Financial Services,Brazil,8,2024-05-30 17:37:56,Starter
+688496,Gradient Labs Partners,Financial Services,France,32,2023-11-29 20:53:11,Growth
+118948,Amplitude Corp Systems,Software,Brazil,16,2023-07-05 13:49:30,Starter
+454905,Relay Systems Technologies,Education,Germany,6,2023-02-08 14:07:07,Starter
+832207,JetMetrics Digital,Software,Netherlands,54,2024-01-12 08:47:19,Growth
+449827,HorizonSaaS Group,Healthcare,Canada,175,2025-05-13 10:18:27,Business
+122331,InfraPoint Networks,Financial Services,India,8,2025-08-12 14:58:32,Starter
+916616,Amplitude Corp Group,Healthcare,Japan,68,2024-11-18 08:33:32,Growth
+149930,EdgeFlow Technologies Labs,Logistics,Brazil,104,2024-06-03 20:25:22,Growth
+575421,InfraPoint Software,Software,United States,8,2023-11-09 14:53:30,Starter
+684543,Beacon Software Technologies,Software,Australia,13,2024-08-15 13:57:25,Starter
+196331,Lattice HQ Partners,Manufacturing,United States,58,2024-03-05 12:15:54,Growth
+742518,YieldMetrics Labs,Financial Services,Brazil,57,2024-01-27 15:49:25,Growth
+518790,NodeSync Technologies,Logistics,Japan,24,2025-08-01 10:07:16,Starter
+558639,NodeSync Digital,Manufacturing,United Kingdom,10,2024-01-23 12:18:03,Starter
+817805,TriggerPoint Networks,Retail,Japan,49,2023-05-16 13:20:21,Growth
+509193,HorizonSaaS Technologies,Retail,India,299,2023-10-13 10:13:37,Business
+227569,Inline Systems Partners,Software,Brazil,54,2023-12-13 06:34:07,Growth
+686652,QueryForge Digital,Software,United Kingdom,9,2024-04-17 15:24:29,Starter
+948864,HorizonSaaS Digital,Financial Services,United States,44,2025-03-19 11:22:59,Growth
+370589,NodeSync Partners,Education,United Kingdom,118,2025-02-04 14:36:30,Growth
+259984,Unified Ops Technologies,Software,United States,272,2023-02-25 14:10:11,Business
+995560,QueryForge Partners,Software,Canada,3,2025-02-21 04:31:28,Starter
+236391,Beacon Software Digital,Retail,Canada,416,2023-01-31 13:59:48,Business
+291773,Unified Ops Digital,Software,Brazil,19,2024-09-11 15:32:10,Starter
+943757,Catalyst CRM Partners,Financial Services,India,47,2024-11-03 13:50:37,Growth
+919065,Axiom Labs Technologies,Software,Netherlands,69,2023-12-20 17:57:06,Growth
+810060,Momentum Tools Labs,Healthcare,Brazil,11,2024-02-21 13:25:58,Starter
+196472,TriggerPoint Software,Retail,India,26,2023-07-15 11:05:50,Growth
+693667,TriggerPoint Industries,Software,Brazil,44,2023-11-14 16:49:48,Growth
+742834,Beacon Software Partners,Education,France,8,2024-04-23 20:51:09,Starter
+847327,HubStack Networks,Healthcare,Germany,84,2023-03-09 11:24:19,Growth
+117687,TriggerPoint Holdings,Logistics,France,1247,2024-03-15 20:17:50,Enterprise
+761571,PipelineIO Group,Logistics,Australia,23,2024-08-19 14:36:34,Starter
+861636,Envoy Platforms Systems,Financial Services,Canada,30,2024-01-31 08:06:30,Growth
+551545,Momentum Tools Systems,Logistics,India,3,2023-01-03 07:38:41,Starter
+678569,Kinetic AI Analytics,Healthcare,Netherlands,43,2024-10-19 17:19:12,Growth
+177341,QueryForge Analytics,Healthcare,Brazil,16,2024-12-22 11:23:47,Starter
+646915,NodeSync Analytics,Retail,Germany,63,2025-01-30 08:13:53,Growth
+751454,Basecamp Analytics Technologies,Healthcare,Germany,170,2025-06-24 12:35:37,Business
+218019,Gradient Labs Analytics,Healthcare,France,6,2025-01-23 17:58:25,Starter
+201370,Keystroke AI Partners,Software,United States,41,2023-08-11 14:34:26,Growth
+263552,Keystroke AI Analytics,Financial Services,Canada,5,2025-04-23 07:07:18,Starter
+451436,PipelineIO Technologies,Retail,United Kingdom,3,2025-04-13 06:18:04,Starter
+391164,HubStack Software,Manufacturing,Brazil,16,2023-10-24 08:24:08,Starter
+451634,Catalyst CRM Analytics,Software,Netherlands,40,2023-03-19 18:53:23,Growth
+727732,LaunchPad HQ Digital,Retail,Brazil,19,2025-05-23 10:53:24,Starter
+299049,HorizonSaaS Partners,Healthcare,Canada,14,2023-02-01 09:22:30,Starter
+930679,Amplitude Corp Technologies,Education,France,6,2024-08-12 15:26:30,Starter
+249013,WorksiteOS Digital,Retail,India,274,2023-12-31 09:03:38,Business
+820426,ZeroFriction Software,Healthcare,France,11,2025-05-07 06:11:56,Starter
+911267,WorksiteOS Partners,Manufacturing,United Kingdom,378,2025-06-02 10:47:23,Business
+216490,WorksiteOS Analytics,Software,Japan,6,2024-09-24 12:03:25,Starter
+620725,JetMetrics Partners,Software,Netherlands,4,2024-07-14 11:53:09,Starter
+511107,Deployly Analytics,Financial Services,India,12,2025-03-21 03:09:59,Starter
+176599,YieldMetrics Systems,Manufacturing,Japan,5,2025-07-21 08:58:35,Starter
+493074,YieldMetrics Group,Healthcare,United Kingdom,5,2023-02-02 13:04:34,Starter
+216864,Inline Systems Analytics,Healthcare,United Kingdom,11,2023-08-07 07:50:51,Starter
+253221,Axiom Labs Digital,Manufacturing,Canada,12,2025-05-31 10:04:48,Starter
+248358,DataBridge Pro Solutions,Financial Services,Japan,83,2025-03-30 06:05:23,Growth
+792694,Beacon Software Analytics,Software,Canada,77,2025-04-23 11:25:28,Growth
+713583,FunnelSoft Systems,Retail,United Kingdom,22,2023-06-01 13:24:41,Starter
+979522,Omnisend Partners,Logistics,France,3,2024-06-07 13:45:38,Growth
+211963,Gradient Labs Solutions,Financial Services,Canada,35,2023-07-18 11:05:21,Growth
+689717,Amplitude Corp Digital,Software,Netherlands,4,2024-10-26 11:32:53,Starter
+248542,Xenon Analytics Analytics,Software,Brazil,3,2025-02-06 23:40:53,Starter
+599502,NodeSync Solutions,Software,France,22,2023-08-17 13:05:02,Starter
+468130,HorizonSaaS Analytics,Retail,India,49,2024-10-30 12:49:01,Growth
+457669,Unified Ops Partners,Software,France,383,2023-03-03 09:09:31,Enterprise
+665391,Unified Ops Analytics,Manufacturing,United Kingdom,3,2025-02-23 06:51:05,Starter
+286547,Gradient Labs Networks,Financial Services,United States,22,2024-04-15 10:10:30,Starter
+298652,Lattice HQ Analytics,Financial Services,Canada,91,2023-06-28 11:36:45,Growth
+302066,Basecamp Analytics Digital,Financial Services,Japan,15,2023-09-19 09:42:40,Starter
+687117,Unified Ops Solutions,Software,France,18,2024-12-14 10:05:51,Starter
+228499,NexusOne Partners,Retail,India,3,2023-02-26 11:02:26,Starter
+391958,Omnisend Analytics,Financial Services,Netherlands,3,2025-01-23 18:41:19,Starter
+467235,FunnelSoft Group,Financial Services,Japan,10,2023-02-09 14:45:32,Starter
+842517,NexusOne Analytics,Financial Services,Netherlands,61,2023-12-31 08:13:04,Growth
+380358,Relay Systems Digital,Retail,Canada,13,2023-04-03 23:09:26,Starter
+962759,QueryForge Solutions,Retail,Germany,6,2024-10-19 19:23:02,Starter
+631589,ZeroFriction Industries,Manufacturing,United Kingdom,215,2024-10-20 11:04:20,Growth
+415716,ZeroFriction Holdings,Logistics,India,14,2023-12-12 10:02:00,Starter
+912127,TriggerPoint Collective,Software,Netherlands,199,2025-05-03 22:54:19,Business
+911125,EdgeFlow Technologies Systems,Manufacturing,United States,86,2024-01-17 10:34:30,Growth
+250471,JetMetrics Analytics,Financial Services,Netherlands,21,2024-01-03 11:40:44,Starter
+868446,Envoy Platforms Group,Logistics,United States,112,2024-10-01 09:00:04,Growth
+918351,ZeroFriction Collective,Logistics,Brazil,31,2024-06-17 07:53:10,Starter
+285164,NodeSync Networks,Healthcare,Canada,7,2025-05-23 12:35:48,Starter
+779156,Axiom Labs Partners,Software,Canada,46,2023-11-29 15:00:22,Growth
+143529,Deployly Solutions,Software,Netherlands,22,2025-03-20 12:27:00,Starter
+443384,Momentum Tools Group,Healthcare,United Kingdom,10,2023-01-27 14:03:05,Starter
+315175,HubStack Industries,Healthcare,Brazil,19,2024-05-01 16:47:49,Starter
+901636,TriggerPoint Works,Financial Services,Japan,54,2023-09-07 13:17:54,Growth
+352867,Unified Ops Networks,Education,Australia,32,2025-01-17 16:57:48,Growth
+806120,Beacon Software Solutions,Retail,Japan,4,2024-01-04 14:19:10,Starter
+627691,Beacon Software Networks,Retail,Australia,94,2023-11-28 16:58:05,Business
+916037,YieldMetrics Technologies,Retail,United States,10,2025-09-08 12:12:51,Starter
+333840,GridLogic Technologies,Retail,India,193,2025-03-17 11:33:53,Business
+722460,Beacon Software Software,Manufacturing,United States,5,2023-09-03 13:15:51,Starter
+479650,StackBase Digital,Healthcare,Japan,7,2024-06-28 13:39:26,Starter
+787021,WorksiteOS Solutions,Software,Brazil,11,2024-05-13 09:14:46,Starter
+942304,HubStack Holdings,Manufacturing,United Kingdom,141,2024-08-19 10:44:44,Business
+664655,EdgeFlow Technologies Group,Retail,Germany,9,2023-09-10 15:30:58,Starter
+995264,Junction Cloud Solutions,Software,United States,18,2024-05-01 10:42:12,Starter
+818984,Amplitude Corp Partners,Retail,Brazil,135,2023-10-10 14:54:28,Business
+427620,Keystroke AI Solutions,Manufacturing,Australia,92,2024-11-01 14:15:21,Growth
+687763,QueryForge Networks,Education,Netherlands,25,2023-09-19 08:45:28,Growth
+381513,Kinetic AI Solutions,Manufacturing,United States,3,2023-12-24 11:05:04,Starter
+202107,InfraPoint Industries,Software,Germany,31,2025-06-25 14:53:29,Growth
+283866,Omnisend Solutions,Software,Brazil,209,2024-06-16 09:08:15,Business
+842629,Omnisend Networks,Manufacturing,India,43,2023-04-30 17:23:03,Growth
+825599,Beacon Software Industries,Logistics,Brazil,9,2023-12-11 08:11:54,Starter
+481021,PipelineIO Digital,Logistics,United States,3,2024-07-16 16:40:33,Starter
+386921,QueryForge Software,Software,Canada,78,2023-12-12 19:24:56,Business
+996819,Xenon Analytics Solutions,Healthcare,United Kingdom,257,2023-12-07 20:35:38,Business
+200865,Deployly Networks,Healthcare,United Kingdom,113,2023-04-18 09:24:46,Growth
+684498,Gradient Labs Software,Software,India,166,2024-12-12 10:01:56,Business
+445138,Momentum Tools Technologies,Manufacturing,Canada,23,2025-01-10 07:00:20,Starter
+894894,VaultStream Solutions,Software,Netherlands,65,2023-09-24 16:55:21,Growth
+647019,GridLogic Digital,Education,Brazil,34,2024-08-08 11:59:39,Growth
+372180,Beacon Software Holdings,Software,United States,16,2023-02-11 16:27:46,Starter
+815996,Junction Cloud Networks,Manufacturing,Japan,114,2025-04-04 16:27:44,Growth
+708315,LaunchPad HQ Partners,Retail,Australia,12,2023-10-16 17:34:01,Starter
+169880,StackBase Partners,Healthcare,Germany,13,2023-08-19 16:13:21,Starter
+970221,QueryForge Industries,Education,Netherlands,10,2023-09-07 11:10:03,Starter
+686916,Gradient Labs Industries,Financial Services,India,171,2025-05-28 10:09:31,Business
+247268,Amplitude Corp Analytics,Manufacturing,France,41,2024-12-11 19:39:12,Growth
+169258,WorksiteOS Networks,Financial Services,India,38,2023-02-13 16:28:38,Growth
+499701,Xenon Analytics Networks,Financial Services,Brazil,119,2023-05-30 23:28:42,Growth
+981433,Beacon Software Collective,Software,Canada,147,2024-12-12 07:10:56,Business
+716836,QueryForge Holdings,Financial Services,Australia,8,2023-07-23 12:15:27,Starter
+530957,PipelineIO Partners,Software,Japan,55,2023-11-06 13:52:44,Growth
+550131,NodeSync Software,Retail,Germany,91,2024-06-13 00:12:52,Growth
+470193,Inline Systems Solutions,Healthcare,Netherlands,14,2023-08-30 07:44:30,Starter
+912387,PipelineIO Analytics,Education,India,11,2024-09-25 14:16:57,Starter
+133896,FunnelSoft Technologies,Retail,Germany,248,2023-04-25 15:41:31,Business
+142057,NexusOne Solutions,Healthcare,Netherlands,42,2023-03-18 07:52:05,Growth
+523028,Catalyst CRM Solutions,Retail,United Kingdom,15,2025-02-07 09:34:40,Starter
+289564,Catalyst CRM Networks,Retail,Australia,71,2025-02-05 08:29:55,Growth
+741646,Deployly Software,Manufacturing,Canada,40,2024-01-12 07:21:12,Growth
+139051,EdgeFlow Technologies Technologies,Software,Japan,47,2024-12-04 19:32:42,Starter
+967030,Keystroke AI Networks,Healthcare,Australia,79,2023-06-29 09:51:15,Growth
+379248,Inline Systems Networks,Healthcare,Netherlands,206,2025-02-15 11:50:07,Business
+728261,Keystroke AI Software,Manufacturing,Germany,22,2023-07-18 12:52:59,Starter
+586292,CloudPeak Systems Group,Financial Services,Canada,5,2025-09-08 11:47:42,Starter
+331341,NexusOne Networks,Retail,Japan,15,2025-09-11 07:52:15,Starter
+823375,Deployly Industries,Software,India,116,2025-08-04 17:38:00,Growth
+646309,CloudPeak Systems Technologies,Manufacturing,Brazil,34,2025-01-23 13:31:51,Growth
+985138,Xenon Analytics Software,Software,India,445,2024-06-12 18:54:54,Business
+734926,WorksiteOS Software,Education,Australia,10,2023-05-22 14:10:24,Starter
+116626,Keystroke AI Industries,Software,Japan,161,2024-01-15 12:20:00,Business
+182129,Lattice HQ Solutions,Healthcare,Japan,29,2023-10-09 16:33:43,Growth
+717660,Basecamp Analytics Partners,Financial Services,Netherlands,18,2023-05-11 06:31:17,Starter
+291292,HorizonSaaS Solutions,Financial Services,Germany,63,2024-01-17 14:36:21,Growth
+682864,Deployly Holdings,Software,Netherlands,118,2025-06-08 16:50:17,Growth
+176590,Relay Systems Partners,Retail,Germany,14,2024-07-13 17:08:34,Starter
+647116,Basecamp Analytics Analytics,Retail,Japan,68,2025-03-28 19:46:24,Growth
+135223,LaunchPad HQ Analytics,Software,France,6,2023-11-25 10:17:58,Starter
+540382,Junction Cloud Software,Manufacturing,France,21,2025-06-02 13:23:17,Growth
+105052,Basecamp Analytics Solutions,Logistics,Canada,58,2025-06-11 17:52:05,Growth
+701732,Amplitude Corp Solutions,Manufacturing,Australia,3,2024-01-24 09:27:03,Starter
+479390,FlowState Analytics,Healthcare,United States,13,2024-04-02 09:49:16,Starter
+749288,ZeroFriction Works,Software,Brazil,200,2023-07-01 19:50:39,Business
+629748,NodeSync Industries,Logistics,United Kingdom,8,2023-09-01 10:43:37,Starter
+950959,Omnisend Software,Education,Australia,51,2025-05-25 07:26:31,Growth
+278077,Amplitude Corp Networks,Education,United States,39,2023-11-28 13:28:20,Growth
+973361,Momentum Tools Digital,Education,United States,116,2024-03-01 11:56:05,Growth
+874742,GridLogic Partners,Healthcare,Japan,50,2023-12-10 10:24:46,Growth
+451238,MeshWorks Digital,Financial Services,United States,91,2024-03-24 13:01:43,Growth
+265989,ZeroFriction Labs 1,Software,Japan,19,2024-08-01 17:50:53,Starter
+747100,CloudPeak Systems Digital,Education,India,16,2024-06-19 12:55:12,Starter
+471767,StackBase Analytics,Healthcare,Brazil,20,2023-06-22 19:59:19,Starter
+401402,Relay Systems Analytics,Retail,Canada,60,2024-01-03 17:30:54,Growth
+625558,TriggerPoint Labs 1,Education,Germany,7,2023-09-21 03:32:34,Starter
+980971,HorizonSaaS Networks,Retail,Germany,38,2025-01-01 17:05:02,Growth
+691555,Basecamp Analytics Networks,Logistics,United States,25,2025-01-19 13:52:46,Growth
+908690,InfraPoint Holdings,Manufacturing,Brazil,41,2024-02-04 08:35:23,Growth
+699272,Omnisend Industries,Retail,Netherlands,10,2023-06-18 11:19:25,Starter
+529391,NexusOne Software,Manufacturing,United States,3,2023-08-09 09:03:49,Starter
+874496,Amplitude Corp Software,Retail,Germany,181,2024-11-11 12:19:06,Business
+863338,TriggerPoint Systems 1,Financial Services,France,46,2025-06-14 15:05:34,Growth
+574470,HorizonSaaS Software,Software,Japan,105,2023-03-26 08:08:55,Growth
+147475,StackBase Solutions,Manufacturing,Brazil,3,2024-05-08 08:38:42,Starter
+172596,Gradient Labs Holdings,Logistics,Australia,29,2024-03-08 22:12:58,Growth
+561622,Amplitude Corp Industries,Financial Services,United Kingdom,14,2024-06-09 16:53:00,Starter
+110911,Gradient Labs Collective,Healthcare,Brazil,20,2024-06-20 07:32:47,Starter
+907943,Catalyst CRM Software,Healthcare,India,23,2025-01-24 13:08:27,Starter
+650871,Kinetic AI Networks,Manufacturing,France,114,2023-04-30 06:41:52,Growth
+783281,Junction Cloud Industries,Software,United States,3,2024-05-02 21:23:15,Starter
+964514,Omnisend Holdings,Software,United Kingdom,26,2025-01-20 16:38:55,Growth
+649261,Beacon Software Works,Healthcare,France,115,2023-10-08 08:39:26,Growth
+656281,Keystroke AI Holdings,Healthcare,France,98,2025-05-30 13:29:56,Growth
+620446,Catalyst CRM Industries,Software,Germany,3,2025-05-13 09:11:20,Starter
+642899,PipelineIO Solutions,Financial Services,Germany,7,2023-07-06 15:58:13,Starter
+626850,Keystroke AI Collective,Retail,France,6,2024-08-13 12:08:32,Starter
+206528,Gradient Labs Works,Retail,United Kingdom,15,2025-09-10 18:36:36,Starter
+819199,ZeroFriction Systems 1,Healthcare,United States,4,2023-07-15 09:03:37,Starter
+972041,Xenon Analytics Industries,Software,India,39,2025-06-14 11:39:37,Growth
+744444,Kinetic AI Software,Manufacturing,India,57,2024-04-10 14:00:57,Business
+865573,EdgeFlow Technologies Digital,Financial Services,Germany,24,2024-04-15 21:17:45,Starter
+775816,NodeSync Holdings,Manufacturing,France,4,2024-05-20 15:55:15,Starter
+225784,DataBridge Pro Networks,Software,Netherlands,168,2025-03-24 09:07:25,Business
+961826,FunnelSoft Digital,Retail,United States,14,2024-02-19 10:12:48,Starter
+877086,InfraPoint Collective,Healthcare,Japan,31,2025-07-20 07:55:37,Growth
+600507,Axiom Labs Analytics,Healthcare,Netherlands,84,2025-09-08 07:36:42,Growth
+200631,StackBase Networks,Education,Germany,46,2023-02-08 02:16:51,Growth
+583252,FunnelSoft Partners,Financial Services,France,60,2023-01-04 09:31:57,Growth
+802565,Omnisend Collective,Financial Services,Canada,560,2025-08-17 13:13:00,Business
+351475,Xenon Analytics Holdings,Software,Brazil,11,2023-09-02 12:33:04,Starter
+312337,Amplitude Corp Holdings,Logistics,Germany,21,2023-10-10 11:27:06,Starter
+669363,PipelineIO Networks,Education,Germany,18,2023-12-10 14:39:34,Starter
+487420,Unified Ops Software,Manufacturing,Australia,36,2023-01-25 17:35:47,Growth
+989410,StackBase Software,Manufacturing,France,12,2025-05-22 06:42:55,Starter
+631003,FunnelSoft Analytics,Financial Services,Netherlands,105,2024-05-10 19:27:57,Growth
+244780,Keystroke AI Works,Retail,Brazil,208,2023-12-18 17:49:57,Business
+958517,Catalyst CRM Holdings,Financial Services,Netherlands,28,2025-01-29 04:10:35,Growth
+613449,Catalyst CRM Collective,Logistics,France,25,2025-04-01 10:37:48,Growth
+615864,Basecamp Analytics Software,Education,Netherlands,87,2024-02-06 14:50:10,Growth
+124942,MeshWorks Partners,Retail,France,55,2023-06-13 15:09:25,Growth
+713585,FlowState Solutions,Retail,Netherlands,23,2024-12-12 06:52:20,Starter
+901613,Basecamp Analytics Industries,Software,Germany,17,2024-11-27 13:23:58,Starter
+353158,HubStack Collective,Retail,Canada,238,2025-04-25 09:28:47,Business
+242324,StackBase Industries,Financial Services,Japan,20,2024-08-26 14:47:34,Starter
+110861,Deployly Collective,Retail,Canada,13,2024-06-28 08:43:25,Starter
+221718,TriggerPoint Group 1,Financial Services,Canada,19,2023-10-14 16:18:58,Starter
+271313,Envoy Platforms Technologies,Retail,India,82,2023-05-25 09:00:57,Growth
+431648,TriggerPoint Technologies 1,Retail,United Kingdom,11,2025-07-06 07:04:43,Starter
+810858,HubStack Works,Healthcare,United Kingdom,86,2025-01-14 07:28:44,Growth
+664752,InfraPoint Works,Education,Netherlands,17,2024-02-21 19:43:58,Starter
+631393,NodeSync Collective,Financial Services,Canada,5,2023-11-16 08:06:49,Starter
+278618,CloudPeak Systems Partners,Software,Germany,27,2023-08-24 10:55:11,Growth
+988184,Junction Cloud Holdings,Manufacturing,India,140,2025-07-11 18:22:39,Business
+806501,Beacon Software Labs 1,Education,Germany,25,2024-05-03 11:11:56,Growth
+281254,StackBase Holdings,Retail,Japan,113,2023-11-19 17:18:59,Growth
+174010,NodeSync Works,Healthcare,Germany,9,2023-04-26 15:41:43,Starter
+245218,Gradient Labs Labs 1,Manufacturing,Canada,202,2024-03-08 15:44:50,Business
+171084,Catalyst CRM Works,Manufacturing,India,78,2024-03-13 15:13:51,Growth
+959623,VaultStream Networks,Retail,India,22,2023-04-29 15:17:08,Starter
+562219,InfraPoint Labs 1,Software,India,302,2025-04-30 09:12:30,Business
+917801,Xenon Analytics Collective,Education,India,201,2023-05-30 13:46:34,Business
+765110,NexusOne Industries,Financial Services,Australia,3,2025-06-28 02:11:59,Starter
+605260,HorizonSaaS Industries,Retail,Japan,16,2025-02-23 13:18:21,Starter
+111936,HubStack Labs 1,Financial Services,Canada,80,2023-06-27 08:27:54,Growth
+660322,Inline Systems Software,Financial Services,India,26,2024-08-25 08:54:14,Growth
+663857,Kinetic AI Industries,Retail,Netherlands,278,2025-01-23 16:45:53,Business
+259726,HorizonSaaS Holdings,Retail,Japan,5,2023-08-05 08:27:58,Starter
+172478,GridLogic Analytics,Healthcare,Australia,54,2023-08-06 10:33:08,Growth
+282693,HubStack Systems 1,Software,Canada,3,2025-02-08 07:28:59,Starter
+822380,GridLogic Solutions,Retail,Brazil,70,2024-12-21 13:33:11,Growth
+992844,FlowState Networks,Software,France,91,2024-06-17 10:33:17,Growth
+647876,YieldMetrics Digital,Retail,India,33,2024-06-12 01:06:52,Growth
+921303,VaultStream Software,Financial Services,France,29,2023-11-29 16:06:35,Growth
+695703,ZeroFriction Group 1,Retail,Brazil,22,2024-09-16 13:55:24,Starter
+918643,Inline Systems Industries,Software,United States,26,2025-03-16 18:44:05,Growth
+244208,Unified Ops Industries,Software,Netherlands,12,2024-09-25 16:08:23,Starter
+962615,CloudPeak Systems Analytics,Software,Australia,33,2024-01-17 08:20:16,Growth
+975689,PipelineIO Software,Healthcare,Australia,40,2023-09-19 08:46:35,Growth
+604137,StackBase Collective,Manufacturing,India,12,2023-11-20 13:28:03,Starter
+831303,Unified Ops Holdings,Software,France,25,2024-05-19 13:26:45,Growth
+419173,Amplitude Corp Collective,Healthcare,Brazil,564,2024-11-23 10:49:23,Business
+695829,GridLogic Networks,Manufacturing,Australia,4,2023-06-20 20:27:45,Starter
+551362,PipelineIO Industries,Financial Services,Japan,36,2023-09-04 09:02:41,Growth
+886365,Basecamp Analytics Holdings,Financial Services,France,225,2024-03-25 08:56:04,Business
+989345,Relay Systems Solutions,Software,United States,72,2024-02-21 13:24:09,Growth
+651891,Lattice HQ Networks,Logistics,Canada,620,2025-02-05 16:00:46,Enterprise
+339409,Amplitude Corp Works,Financial Services,Canada,11,2025-09-20 15:06:00,Starter
+852560,FlowState Software,Healthcare,Japan,66,2023-09-17 15:01:33,Growth
+298901,Xenon Analytics Works,Healthcare,Australia,5,2024-06-04 04:17:45,Starter
+871334,NexusOne Holdings,Education,France,64,2025-01-26 14:22:10,Starter
+557985,NexusOne Collective,Software,France,4,2023-11-18 18:33:27,Starter
+865183,CloudPeak Systems Solutions,Education,Australia,115,2023-09-26 15:19:08,Business
+514217,WorksiteOS Industries,Healthcare,United States,36,2025-07-27 10:40:54,Growth
+299619,EdgeFlow Technologies Partners,Software,France,85,2023-10-20 20:04:44,Growth
+556047,YieldMetrics Partners,Healthcare,Netherlands,32,2023-12-17 13:12:50,Growth
+722037,Junction Cloud Collective,Financial Services,Australia,27,2023-01-04 09:38:09,Starter
+377902,NodeSync Labs 1,Healthcare,France,126,2023-01-10 13:24:26,Business
+793847,NexusOne Works,Financial Services,Germany,25,2025-05-08 13:01:43,Growth
+741178,DataBridge Pro Software,Software,Japan,47,2024-08-07 17:49:44,Growth
+397763,HubStack Group 1,Manufacturing,India,79,2024-03-28 13:41:39,Growth
+436439,Relay Systems Networks,Manufacturing,Brazil,22,2025-01-10 13:16:04,Starter
+428057,Axiom Labs Solutions,Retail,France,4,2025-08-02 08:07:19,Starter
+393362,FlowState Industries,Software,United Kingdom,25,2023-08-01 09:27:52,Growth
+588070,QueryForge Collective,Financial Services,Japan,48,2025-07-16 12:37:06,Growth
+519899,Keystroke AI Labs 1,Healthcare,Canada,7,2023-02-26 14:31:28,Starter
+731506,InfraPoint Systems 1,Software,Brazil,7,2025-02-03 08:07:21,Starter
+766913,Catalyst CRM Labs 1,Financial Services,India,36,2025-05-20 10:37:41,Growth
+301410,InfraPoint Group 1,Retail,Japan,20,2024-02-24 09:58:29,Growth
+692337,WorksiteOS Holdings,Retail,United Kingdom,30,2023-01-15 16:23:07,Growth
+845929,Deployly Works,Financial Services,India,4,2025-02-16 11:54:59,Starter
+189189,CloudPeak Systems Networks,Financial Services,Canada,21,2025-01-10 10:21:58,Growth
+723768,JetMetrics Solutions,Software,United States,32,2024-05-07 10:49:03,Growth
+279735,VaultStream Industries,Healthcare,France,9,2025-05-09 12:02:27,Starter
+869256,FlowState Holdings,Retail,Canada,20,2024-12-04 15:26:20,Starter
+636784,Basecamp Analytics Collective,Financial Services,United States,47,2023-08-11 17:00:28,Growth
+315118,PipelineIO Holdings,Financial Services,Canada,196,2023-05-24 16:58:10,Business
+258458,Xenon Analytics Labs 1,Logistics,Brazil,558,2023-01-01 13:22:10,Business
+757684,NodeSync Systems 1,Financial Services,Netherlands,8,2025-04-29 07:49:22,Starter
+675863,NodeSync Group 1,Education,France,52,2024-10-19 12:25:14,Growth
+412468,Catalyst CRM Systems 1,Manufacturing,Canada,8,2023-01-23 09:50:53,Starter
+280961,NodeSync Technologies 1,Software,Brazil,32,2023-03-26 14:50:38,Growth
+435261,FlowState Collective,Retail,France,52,2023-04-07 14:11:47,Growth
+607403,Unified Ops Collective,Healthcare,Japan,65,2025-05-27 13:04:05,Growth
+363319,LaunchPad HQ Solutions,Manufacturing,India,10,2023-04-09 13:04:24,Starter
+553898,Amplitude Corp Labs 1,Software,United States,8,2023-09-20 09:14:17,Starter
+629593,PipelineIO Collective,Retail,United Kingdom,301,2025-06-05 06:37:27,Business
+858507,Catalyst CRM Group 1,Software,Netherlands,81,2023-06-17 20:42:21,Business
+704441,HorizonSaaS Collective,Software,Australia,31,2025-08-18 18:40:43,Growth
+124671,Unified Ops Works,Retail,Japan,64,2023-02-18 12:29:32,Growth
+684083,DataBridge Pro Industries,Retail,United Kingdom,4,2025-06-25 13:39:50,Starter
+870271,Gradient Labs Systems 1,Financial Services,France,18,2023-02-24 11:40:17,Starter
+520785,EdgeFlow Technologies Analytics,Manufacturing,Germany,14,2023-05-11 15:17:54,Starter
+581789,Unified Ops Labs 1,Education,Netherlands,11,2024-12-17 18:08:20,Starter
+700790,FlowState Works,Software,United Kingdom,46,2023-01-29 19:16:44,Starter
+890103,Xenon Analytics Systems 1,Education,Canada,8,2023-07-12 11:16:24,Starter
+414766,FunnelSoft Solutions,Financial Services,Canada,14,2024-03-31 06:35:59,Starter
+823165,VaultStream Holdings,Software,France,17,2025-03-08 09:33:55,Starter
+284686,HubStack Technologies 1,Financial Services,India,14,2023-07-30 10:00:16,Starter
+739777,Gradient Labs Group 1,Software,Netherlands,339,2023-01-30 09:41:54,Business
+772806,PipelineIO Works,Logistics,Netherlands,8,2023-05-17 19:05:07,Starter
+377997,JetMetrics Networks,Manufacturing,Japan,31,2024-12-19 15:01:00,Growth
+115359,JetMetrics Software,Financial Services,Netherlands,23,2023-06-21 10:57:18,Starter
+252079,Gradient Labs Technologies 1,Software,Canada,6,2024-11-11 10:13:02,Starter
+269785,GridLogic Software,Logistics,Australia,84,2024-07-20 14:15:14,Growth
+313943,Xenon Analytics Group 1,Software,France,84,2025-04-21 15:15:16,Growth
+691462,Momentum Tools Partners,Software,Japan,16,2024-03-22 18:02:46,Starter
+298048,Relay Systems Software,Financial Services,Brazil,17,2024-04-04 07:19:17,Starter
+368540,WorksiteOS Collective,Financial Services,Canada,9,2023-08-19 16:23:30,Starter
+696918,ZeroFriction Technologies 1,Financial Services,Netherlands,46,2023-02-07 13:41:45,Growth
+667992,Relay Systems Industries,Software,Japan,285,2025-09-02 12:17:11,Business
+228567,GridLogic Industries,Education,United States,35,2024-07-26 09:14:06,Growth
+144659,Inline Systems Holdings,Education,United States,116,2024-09-24 00:46:56,Growth
+670699,Axiom Labs Networks,Logistics,Canada,71,2024-05-08 07:11:18,Growth
+498799,GridLogic Holdings,Software,Brazil,52,2024-10-11 22:11:43,Growth
+685200,Gradient Labs Digital 1,Healthcare,Germany,94,2025-03-16 14:36:11,Growth
+540115,JetMetrics Industries,Software,Netherlands,37,2023-05-23 15:15:31,Growth
+301735,NodeSync Digital 1,Manufacturing,Canada,3,2024-08-15 00:33:55,Starter
+899547,CloudPeak Systems Software,Manufacturing,Netherlands,79,2024-07-01 22:41:47,Growth
+170417,StackBase Works,Financial Services,Netherlands,52,2025-04-08 20:59:01,Growth
+550912,HubStack Digital 1,Education,Germany,7,2023-09-08 15:53:53,Starter
+774503,FunnelSoft Networks,Retail,Germany,5,2025-05-29 00:55:29,Starter
+110840,Envoy Platforms Digital,Manufacturing,United Kingdom,205,2024-01-25 11:07:52,Business
+105131,PipelineIO Labs 1,Financial Services,France,10,2023-04-20 11:04:44,Starter
+228280,Keystroke AI Systems 1,Education,Canada,115,2025-02-26 15:13:27,Growth
+870519,Inline Systems Collective,Logistics,India,7,2024-06-11 06:28:35,Starter
+888943,CloudPeak Systems Industries,Healthcare,United States,12,2025-05-07 07:19:40,Starter
+498584,Basecamp Analytics Works,Software,Germany,11,2024-12-22 10:16:48,Starter
+665974,GridLogic Collective,Software,India,7,2024-02-03 07:27:50,Starter
+491474,ZeroFriction Digital 1,Healthcare,Australia,65,2025-05-02 09:29:56,Business
+866791,LaunchPad HQ Networks,Logistics,Australia,3,2024-02-03 10:57:32,Starter
+540635,PipelineIO Systems 1,Software,Australia,36,2023-02-04 18:20:51,Growth
+830784,Unified Ops Systems 1,Healthcare,Netherlands,41,2024-09-28 15:50:43,Growth
+417940,Relay Systems Holdings,Software,Brazil,8,2025-05-14 14:51:50,Starter
+780194,YieldMetrics Analytics,Retail,United States,565,2025-01-14 12:19:45,Business
+294902,JetMetrics Holdings,Education,United States,54,2025-02-23 07:53:44,Growth
+999282,Gradient Labs Partners 1,Healthcare,France,19,2025-07-04 14:18:45,Starter
+378343,Relay Systems Collective,Software,France,38,2024-07-23 16:07:30,Growth
+883487,CloudPeak Systems Holdings,Software,Brazil,23,2024-07-20 11:13:17,Starter
+558918,MeshWorks Analytics,Logistics,India,106,2024-02-05 09:53:10,Growth
+591895,GridLogic Works,Healthcare,United Kingdom,10,2024-08-03 16:17:34,Starter
+282217,Basecamp Analytics Labs 1,Manufacturing,Canada,221,2024-02-16 15:35:26,Business
+318147,Envoy Platforms Partners,Financial Services,Netherlands,3,2025-01-17 09:36:57,Starter
+839782,DataBridge Pro Holdings,Software,Netherlands,462,2025-03-06 17:56:00,Business
+941144,FlowState Labs 1,Software,Japan,26,2024-05-04 17:02:30,Growth
+113224,Xenon Analytics Technologies 1,Healthcare,Japan,97,2023-10-28 18:39:13,Business
+102220,Unified Ops Group 1,Logistics,India,39,2025-05-06 09:24:35,Growth
+211058,Envoy Platforms Analytics,Retail,Brazil,31,2023-05-27 13:53:18,Growth
+210309,Keystroke AI Group 1,Manufacturing,France,3,2023-12-15 08:11:37,Starter
+876549,Gradient Labs Analytics 1,Logistics,Netherlands,50,2023-03-21 23:55:11,Growth
+260951,LaunchPad HQ Software,Software,Canada,287,2023-09-27 09:43:47,Business
+810968,QueryForge Works,Financial Services,Brazil,13,2023-06-15 11:41:25,Growth
+794431,Lattice HQ Software,Financial Services,Germany,46,2024-08-05 10:14:44,Growth
+818654,StackBase Labs 1,Software,United Kingdom,4,2024-09-12 15:33:45,Growth
+480190,Beacon Software Systems 1,Manufacturing,France,3,2024-01-29 06:58:46,Starter
+269054,JetMetrics Collective,Manufacturing,Germany,7,2023-01-04 12:03:10,Starter
+243998,NexusOne Labs 1,Retail,Germany,3,2024-08-23 14:40:22,Starter
+505397,DataBridge Pro Collective,Software,Canada,11,2024-07-25 08:26:33,Starter
+925203,YieldMetrics Solutions,Logistics,United Kingdom,3,2024-10-08 10:05:11,Starter
+218565,FunnelSoft Software,Logistics,United States,4,2023-11-12 16:16:07,Starter
+819946,Omnisend Works,Financial Services,Canada,10,2025-01-18 10:00:56,Starter
+357563,Relay Systems Works,Healthcare,Japan,8,2024-02-25 09:41:21,Growth
+260885,Beacon Software Group 1,Education,Japan,18,2023-06-12 07:43:12,Starter
+253647,Envoy Platforms Solutions,Manufacturing,France,8,2024-08-17 15:40:18,Starter
+512181,NodeSync Partners 1,Healthcare,Japan,45,2024-11-03 18:25:56,Growth
+149920,Inline Systems Works,Software,Germany,15,2024-04-20 10:16:38,Starter
+479493,WorksiteOS Works,Healthcare,Japan,17,2023-01-21 10:30:18,Starter
+680171,Momentum Tools Analytics,Education,Japan,23,2024-02-25 12:31:47,Starter
+143122,DataBridge Pro Works,Retail,France,24,2025-09-09 17:23:15,Starter
+211818,Catalyst CRM Technologies 1,Financial Services,India,87,2024-04-10 08:14:53,Growth
+347163,Relay Systems Labs 1,Software,United Kingdom,81,2024-09-06 09:19:30,Growth
+679023,HubStack Partners 1,Logistics,France,3,2024-06-25 16:50:00,Starter
+732615,Amplitude Corp Systems 1,Retail,Germany,17,2024-04-23 15:57:17,Starter
+383348,Kinetic AI Holdings,Logistics,France,41,2025-08-11 08:02:18,Growth
+713866,NexusOne Systems 1,Manufacturing,Japan,43,2024-05-07 19:19:10,Growth
+412093,Gradient Labs Solutions 1,Software,Japan,23,2023-09-29 17:45:40,Starter
+492564,Axiom Labs Software,Healthcare,France,71,2024-05-19 16:11:53,Growth
+205204,Keystroke AI Technologies 1,Financial Services,United Kingdom,13,2024-11-14 08:57:31,Starter
+501273,Deployly Labs 1,Software,United Kingdom,13,2024-06-04 17:52:03,Starter
+893855,LaunchPad HQ Industries,Software,France,3,2024-07-27 14:08:32,Starter
+772957,Xenon Analytics Digital 1,Retail,Canada,64,2024-03-21 08:05:47,Growth
+424994,Axiom Labs Industries,Financial Services,Canada,499,2025-08-27 11:55:37,Business
+695658,WorksiteOS Labs 1,Software,Netherlands,104,2023-06-08 11:30:54,Growth
+596031,LaunchPad HQ Holdings,Healthcare,Australia,12,2024-03-01 23:05:21,Growth
+669720,Relay Systems Systems 1,Education,Canada,315,2023-05-14 07:01:01,Business
+784693,Xenon Analytics Partners 1,Healthcare,Netherlands,116,2023-01-28 07:43:35,Growth
+782825,Axiom Labs Holdings,Manufacturing,Germany,159,2023-01-17 10:09:38,Business
+519323,HubStack Analytics 1,Financial Services,Canada,7,2025-05-31 16:27:35,Starter
+646333,GridLogic Labs 1,Education,United Kingdom,17,2023-01-25 14:37:21,Starter
+469600,Amplitude Corp Group 1,Education,Australia,28,2024-02-09 16:08:36,Growth
+262660,Keystroke AI Digital 1,Financial Services,Germany,34,2023-03-06 18:54:29,Growth
+725268,GridLogic Systems 1,Software,Japan,53,2023-02-01 16:13:08,Growth
+561350,Junction Cloud Works,Software,India,34,2024-12-10 10:21:30,Growth
+381306,CloudPeak Systems Collective,Education,Canada,50,2025-07-01 08:34:40,Growth
+131876,Gradient Labs Networks 1,Software,Netherlands,9,2023-04-08 09:36:12,Starter
+790364,JetMetrics Works,Financial Services,Japan,29,2025-07-18 13:55:03,Growth
+735377,GridLogic Group 1,Manufacturing,Canada,7,2023-11-19 15:54:38,Starter
+120608,Envoy Platforms Networks,Financial Services,Canada,8,2024-08-08 09:18:41,Starter
+102347,JetMetrics Labs 1,Software,Brazil,26,2025-03-02 15:27:01,Growth
+769943,Deployly Systems 1,Software,Canada,34,2023-01-01 07:26:18,Starter
+380284,Beacon Software Technologies 1,Retail,Japan,139,2024-04-10 11:35:05,Business
+617749,Junction Cloud Labs 1,Software,Germany,16,2025-04-03 13:50:40,Starter
+876324,PipelineIO Group 1,Financial Services,France,151,2024-05-09 14:55:35,Business
+116787,MeshWorks Solutions,Healthcare,United Kingdom,16,2025-08-16 15:36:51,Growth
+995934,Amplitude Corp Technologies 1,Software,Canada,44,2025-05-18 13:02:36,Growth
+865765,NexusOne Group 1,Software,Japan,20,2023-12-29 13:12:28,Starter
+150144,Relay Systems Group 1,Education,United Kingdom,12,2024-05-14 16:52:50,Starter
+208743,Unified Ops Technologies 1,Retail,Australia,131,2024-05-18 07:51:45,Growth
+558269,Unified Ops Digital 1,Software,Germany,1505,2024-02-03 09:55:39,Enterprise
+133440,Beacon Software Digital 1,Software,Australia,7,2023-10-30 07:52:17,Starter
+331311,Deployly Group 1,Retail,United Kingdom,99,2024-05-15 11:56:23,Growth
+176018,CloudPeak Systems Works,Financial Services,Brazil,29,2024-10-03 16:55:34,Growth
+155872,QueryForge Labs 1,Financial Services,India,62,2025-06-17 15:56:51,Growth
+873654,GridLogic Technologies 1,Financial Services,United Kingdom,158,2025-08-01 15:47:20,Business
+654271,StackBase Systems 1,Retail,France,55,2023-04-12 20:23:13,Growth
+234922,StackBase Group 1,Software,Brazil,150,2025-09-25 09:05:29,Business
+656283,InfraPoint Technologies 1,Financial Services,Japan,83,2024-01-27 17:16:01,Growth
+247003,VaultStream Collective,Financial Services,Brazil,28,2023-03-17 10:14:50,Growth
+301353,FlowState Systems 1,Manufacturing,Japan,6,2024-05-23 09:48:28,Starter
+216101,TriggerPoint Digital 1,Software,Brazil,15,2023-08-08 00:27:09,Starter
+809176,YieldMetrics Networks,Healthcare,Japan,35,2025-03-18 10:44:31,Growth
+465105,Gradient Labs Software 1,Retail,France,16,2024-08-01 11:50:42,Starter
+190126,Xenon Analytics Analytics 1,Manufacturing,Australia,13,2024-12-12 12:24:17,Starter
+985162,CloudPeak Systems Labs 1,Manufacturing,France,14,2024-06-09 12:40:59,Starter
+280034,Keystroke AI Partners 1,Software,Netherlands,31,2025-02-15 09:55:48,Starter
+433844,Unified Ops Partners 1,Healthcare,Brazil,3,2024-07-14 08:54:20,Starter
+729870,CloudPeak Systems Systems 1,Logistics,Brazil,46,2025-05-27 15:39:49,Growth
+679825,Deployly Technologies 1,Retail,Germany,154,2023-10-18 08:36:11,Business
+862941,StackBase Technologies 1,Software,France,36,2025-01-17 14:33:44,Growth
+943223,Kinetic AI Collective,Software,Australia,102,2024-08-28 14:31:51,Growth
+564779,Inline Systems Labs 1,Software,Netherlands,3,2025-04-09 21:02:20,Starter
+834134,Xenon Analytics Solutions 1,Education,India,20,2023-12-08 10:51:18,Starter
+358134,YieldMetrics Software,Software,Germany,392,2023-07-21 19:50:15,Business
+621013,Gradient Labs Industries 1,Manufacturing,India,3,2025-09-25 11:24:38,Starter
+672009,NexusOne Technologies 1,Healthcare,Brazil,63,2023-01-27 05:51:27,Growth
+148986,DataBridge Pro Labs 1,Healthcare,France,15,2024-11-23 14:40:06,Starter
+870377,NexusOne Digital 1,Software,United States,3,2023-05-23 16:49:18,Starter
+211956,Amplitude Corp Digital 1,Software,Netherlands,61,2023-05-24 04:02:22,Growth
+150235,VaultStream Works,Education,United Kingdom,10,2024-03-13 13:17:57,Starter
+734042,Lattice HQ Industries,Software,Canada,5,2024-02-03 17:24:27,Starter
+189580,Lattice HQ Holdings,Healthcare,France,9,2024-08-18 09:11:21,Starter
+287710,Xenon Analytics Networks 1,Healthcare,United States,150,2024-05-11 13:18:05,Business
+621112,Deployly Digital 1,Financial Services,Brazil,141,2025-01-23 15:37:04,Business
+317879,LaunchPad HQ Collective,Financial Services,Brazil,14,2023-01-07 16:14:18,Starter
+838808,DataBridge Pro Systems 1,Education,United States,40,2023-06-08 08:37:29,Growth
+326211,HubStack Solutions 1,Financial Services,Netherlands,77,2025-06-29 10:46:01,Growth
+216530,DataBridge Pro Group 1,Manufacturing,Netherlands,7,2024-04-22 07:17:41,Starter
+603842,JetMetrics Systems 1,Software,Australia,6,2024-02-06 06:38:05,Starter
+782122,Catalyst CRM Digital 1,Logistics,France,3,2023-10-08 15:06:16,Starter
+751207,Amplitude Corp Partners 1,Software,Australia,4,2025-04-06 10:21:08,Starter
+441926,TriggerPoint Partners 1,Financial Services,Germany,5,2024-05-17 17:29:02,Starter
+301920,CloudPeak Systems Group 1,Software,France,6,2023-11-22 14:10:22,Starter
+540233,Xenon Analytics Software 1,Software,India,20,2023-07-04 16:57:14,Starter
+553479,PipelineIO Technologies 1,Manufacturing,United States,76,2025-01-28 04:52:51,Business
+113010,Kinetic AI Works,Software,Brazil,8,2024-01-08 23:37:53,Starter
+805099,Catalyst CRM Partners 1,Healthcare,Canada,3,2024-11-23 19:04:52,Starter
+819790,HorizonSaaS Works,Software,Germany,28,2025-01-21 09:18:23,Growth
+141134,Kinetic AI Labs 1,Manufacturing,Australia,6,2023-03-17 16:50:59,Starter
+714944,Lattice HQ Collective,Education,Germany,31,2023-07-01 16:59:29,Growth
+171014,Basecamp Analytics Systems 1,Logistics,Australia,20,2025-02-04 06:52:38,Starter
+468400,Kinetic AI Systems 1,Software,United Kingdom,131,2023-12-06 07:30:21,Business
+460814,YieldMetrics Industries,Software,Australia,3,2023-05-09 13:46:34,Starter
+393542,VaultStream Labs 1,Software,France,16,2023-10-07 08:38:47,Starter
+704625,WorksiteOS Systems 1,Financial Services,Germany,47,2024-10-05 15:18:45,Growth
+740262,GridLogic Digital 1,Software,Brazil,17,2024-11-23 09:35:23,Starter
+430826,StackBase Digital 1,Manufacturing,Brazil,443,2025-09-08 07:43:42,Business
+800274,DataBridge Pro Technologies 1,Healthcare,India,84,2024-04-08 20:22:12,Growth
+163603,Omnisend Labs 1,Healthcare,Netherlands,5,2024-09-08 13:00:33,Starter
+742562,Junction Cloud Systems 1,Logistics,Japan,462,2025-03-25 15:43:50,Business
+526700,TriggerPoint Analytics 1,Education,Brazil,13,2023-11-12 07:27:48,Starter
+989157,HorizonSaaS Labs 1,Logistics,Canada,13,2024-04-16 10:33:37,Starter
+895559,QueryForge Systems 1,Software,United States,44,2025-02-25 08:52:00,Growth
+249442,Lattice HQ Works,Education,Netherlands,257,2024-12-25 21:25:06,Business
+406745,Keystroke AI Analytics 1,Logistics,Netherlands,13,2023-04-04 08:47:37,Starter
+789095,Momentum Tools Solutions,Healthcare,Germany,14,2023-02-15 20:50:10,Starter
+288798,Omnisend Systems 1,Healthcare,United States,16,2024-06-21 09:11:36,Starter
+504637,InfraPoint Digital 1,Software,United States,6,2024-04-06 07:50:07,Starter
+863793,Catalyst CRM Analytics 1,Retail,Canada,15,2024-01-12 12:04:13,Starter
+366471,Beacon Software Partners 1,Healthcare,Canada,26,2025-03-30 17:35:03,Growth
+252591,Catalyst CRM Solutions 1,Financial Services,France,22,2025-04-09 06:00:05,Growth
+705149,Kinetic AI Group 1,Healthcare,Australia,19,2023-04-11 10:12:56,Starter
+954668,Deployly Partners 1,Retail,Japan,67,2024-12-05 19:10:27,Growth
+145314,Amplitude Corp Analytics 1,Retail,Netherlands,11,2024-12-29 08:04:28,Starter
+485273,HubStack Networks 1,Software,Germany,74,2023-03-23 16:49:43,Growth
+565930,JetMetrics Group 1,Financial Services,United Kingdom,40,2025-07-29 10:15:55,Growth
+632926,FunnelSoft Industries,Manufacturing,Australia,104,2025-08-06 14:32:51,Growth
+537253,HubStack Software 1,Healthcare,Brazil,3,2025-08-27 08:44:39,Starter
+785078,JetMetrics Technologies 1,Retail,Canada,6,2023-07-30 19:17:42,Starter
+395222,DataBridge Pro Digital 1,Financial Services,Germany,29,2024-08-08 09:38:35,Growth
+196541,Amplitude Corp Solutions 1,Logistics,Japan,40,2024-07-12 15:21:41,Starter
+412644,NexusOne Partners 1,Financial Services,Netherlands,11,2024-05-06 08:28:41,Starter
+822666,Omnisend Group 1,Healthcare,Canada,30,2025-07-03 15:21:24,Growth
+990741,Keystroke AI Solutions 1,Software,United Kingdom,12,2025-05-28 17:33:35,Starter
+982749,JetMetrics Digital 1,Manufacturing,Canada,6,2023-02-21 14:16:00,Starter
+662390,FlowState Group 1,Financial Services,France,13,2024-03-04 12:14:38,Starter
+563394,Junction Cloud Group 1,Software,Australia,37,2025-01-19 04:43:44,Growth
+170008,Basecamp Analytics Group 1,Manufacturing,Germany,174,2025-01-30 09:01:14,Business
+861107,NexusOne Analytics 1,Healthcare,Australia,88,2023-03-21 18:26:25,Growth
+899024,Gradient Labs Holdings 1,Software,France,6,2023-11-29 14:30:52,Starter
+372540,YieldMetrics Holdings,Retail,United States,236,2023-03-14 07:00:56,Business
+379610,StackBase Partners 1,Logistics,United Kingdom,9,2023-12-15 08:52:21,Starter
+245051,FlowState Technologies 1,Manufacturing,Brazil,28,2025-06-05 08:11:05,Growth
+750386,Xenon Analytics Industries 1,Manufacturing,United Kingdom,9,2025-02-19 17:46:53,Starter
+103319,Lattice HQ Labs 1,Software,Canada,15,2024-10-20 15:15:07,Starter
+235164,Gradient Labs Collective 1,Financial Services,Netherlands,64,2024-02-09 17:07:40,Growth
+757526,CloudPeak Systems Technologies 1,Retail,Netherlands,16,2024-09-30 09:33:24,Starter
+280606,Relay Systems Technologies 1,Software,France,8,2024-10-22 10:56:46,Starter
+671372,Xenon Analytics Holdings 1,Education,India,11,2024-12-15 11:00:31,Starter
+212090,Keystroke AI Networks 1,Retail,France,36,2023-12-27 11:50:00,Growth
+451700,Junction Cloud Technologies 1,Healthcare,France,12,2024-12-03 07:38:04,Starter
+362956,HorizonSaaS Systems 1,Software,India,4,2025-01-02 10:18:54,Starter
+744158,GridLogic Partners 1,Logistics,France,412,2024-03-23 19:53:15,Business
+200830,Inline Systems Systems 1,Manufacturing,Canada,29,2023-08-03 12:48:25,Growth
+383211,Basecamp Analytics Technologies 1,Education,United States,56,2023-07-07 23:12:04,Growth
+418604,EdgeFlow Technologies Solutions,Manufacturing,United States,3,2023-06-24 13:26:04,Starter
+558167,StackBase Analytics 1,Software,India,301,2025-09-16 08:14:13,Business
+961918,Unified Ops Analytics 1,Software,Canada,6,2023-08-17 14:56:04,Starter
+440806,YieldMetrics Collective,Financial Services,Netherlands,19,2023-09-16 16:29:36,Starter
+314260,FunnelSoft Holdings,Software,United States,256,2025-05-20 08:49:17,Business
+634053,ZeroFriction Partners 1,Financial Services,Australia,159,2023-03-02 14:24:21,Business
+511241,Omnisend Technologies 1,Financial Services,Australia,59,2023-06-25 07:27:44,Starter
+336415,GridLogic Analytics 1,Software,France,8,2024-10-06 07:33:30,Starter
+373043,Keystroke AI Software 1,Retail,France,3,2023-11-16 09:19:34,Starter
+200323,HubStack Industries 1,Manufacturing,Japan,11,2023-11-08 05:15:16,Starter
+796619,ZeroFriction Analytics 1,Education,India,80,2024-03-24 14:31:12,Growth
+919974,VaultStream Systems 1,Financial Services,Netherlands,224,2023-09-11 07:55:56,Business
+216067,Kinetic AI Technologies 1,Retail,United States,55,2025-03-21 13:26:29,Growth
+154252,NodeSync Analytics 1,Healthcare,Germany,5,2024-03-29 10:27:00,Starter
+848871,Relay Systems Digital 1,Financial Services,United States,13,2023-02-20 08:58:25,Starter
+549442,Inline Systems Group 1,Software,Brazil,496,2024-01-23 08:04:36,Business
+436381,EdgeFlow Technologies Networks,Financial Services,France,15,2024-02-22 09:14:40,Starter
+441792,Lattice HQ Systems 1,Software,Australia,119,2023-09-06 09:30:02,Growth
+181128,GridLogic Solutions 1,Financial Services,Canada,26,2023-09-16 08:23:39,Growth
+724051,NodeSync Solutions 1,Logistics,Japan,40,2023-04-26 15:10:34,Growth
+142978,NodeSync Networks 1,Manufacturing,Japan,70,2023-01-12 12:22:42,Growth
+987167,StackBase Solutions 1,Retail,Netherlands,31,2024-01-29 14:11:27,Growth
+997844,VaultStream Group 1,Education,Japan,222,2024-12-22 05:58:02,Business
+236900,ZeroFriction Solutions 1,Healthcare,India,35,2025-08-29 07:50:54,Growth
+301453,Basecamp Analytics Digital 1,Retail,France,5,2025-05-05 13:01:16,Starter
+778013,Unified Ops Solutions 1,Retail,Netherlands,22,2023-11-23 13:11:54,Starter
+474008,FlowState Digital 1,Software,Australia,103,2025-03-04 12:58:50,Growth
+618342,Relay Systems Partners 1,Manufacturing,Canada,398,2023-05-26 11:43:41,Business
+232216,Keystroke AI Industries 1,Manufacturing,Germany,114,2024-03-05 13:44:16,Starter
+787646,InfraPoint Partners 1,Logistics,India,36,2023-06-18 10:25:47,Growth
+564516,Amplitude Corp Networks 1,Education,Japan,29,2025-03-22 09:48:09,Growth
+149208,Relay Systems Analytics 1,Financial Services,Netherlands,4,2024-05-12 15:56:19,Starter
+207018,FlowState Partners 1,Manufacturing,Canada,3,2024-07-30 17:55:42,Starter
+517368,Inline Systems Technologies 1,Logistics,Germany,124,2023-05-19 13:12:29,Business
+739213,NodeSync Software 1,Manufacturing,Netherlands,17,2025-01-16 09:39:48,Starter
+411362,HubStack Holdings 1,Logistics,India,17,2023-11-21 15:00:33,Starter
+181156,Kinetic AI Digital 1,Healthcare,Brazil,104,2024-11-19 12:16:10,Growth
+104172,YieldMetrics Works,Logistics,Germany,16,2025-07-30 22:50:24,Starter
+359105,Omnisend Digital 1,Financial Services,Germany,29,2024-05-05 08:50:45,Growth
+663683,EdgeFlow Technologies Software,Software,Brazil,18,2025-06-11 09:50:17,Starter
+196847,FlowState Analytics 1,Healthcare,Japan,139,2024-08-26 06:02:58,Business
+106212,CloudPeak Systems Digital 1,Retail,India,144,2024-09-08 13:48:54,Business
+575382,PipelineIO Digital 1,Manufacturing,Japan,64,2025-08-13 13:38:22,Growth
+901602,DataBridge Pro Partners 1,Software,France,47,2023-11-11 13:19:04,Growth
+331536,WorksiteOS Group 1,Manufacturing,Australia,5,2024-10-26 13:14:46,Starter
+549691,FunnelSoft Collective,Logistics,Brazil,25,2023-04-18 12:37:07,Growth
+739739,InfraPoint Analytics 1,Financial Services,Brazil,13,2023-08-08 09:21:21,Starter
+961788,Junction Cloud Digital 1,Logistics,India,3,2024-11-03 13:09:30,Starter
+349808,InfraPoint Solutions 1,Software,Japan,30,2024-01-26 14:23:34,Growth
+165982,Envoy Platforms Software,Manufacturing,Brazil,73,2025-09-16 16:40:39,Growth
+549976,Inline Systems Digital 1,Financial Services,Netherlands,292,2025-03-08 13:12:55,Business
+580435,YieldMetrics Labs 1,Education,United States,49,2023-08-24 16:06:53,Growth
+487099,YieldMetrics Systems 1,Manufacturing,Netherlands,9,2024-06-12 11:40:52,Starter
+492337,Beacon Software Analytics 1,Financial Services,France,13,2025-09-26 15:02:07,Starter
+351485,NexusOne Solutions 1,Software,France,12,2023-08-25 14:25:55,Starter
+237614,ZeroFriction Networks 1,Healthcare,Australia,25,2024-06-01 17:16:46,Growth
+125160,QueryForge Group 1,Manufacturing,United States,8,2025-09-13 10:14:37,Starter
+329586,JetMetrics Partners 1,Retail,United Kingdom,25,2024-11-05 13:36:07,Growth
+320794,QueryForge Technologies 1,Financial Services,India,6,2024-02-16 16:54:58,Starter
+184233,QueryForge Digital 1,Software,France,12,2024-11-14 07:30:46,Starter
+673856,Beacon Software Solutions 1,Financial Services,Japan,5,2024-06-19 13:21:32,Starter
+692735,WorksiteOS Technologies 1,Healthcare,United States,17,2024-09-04 16:04:53,Starter
+336143,PipelineIO Partners 1,Software,Germany,3,2025-03-30 11:22:02,Starter
+946742,Momentum Tools Networks,Financial Services,Germany,13,2024-10-10 07:59:55,Starter
+733368,GridLogic Networks 1,Software,Germany,11,2024-08-12 11:13:44,Starter
+887991,Keystroke AI Holdings 1,Financial Services,Germany,15,2023-07-26 20:19:34,Starter
+110220,VaultStream Technologies 1,Financial Services,Netherlands,22,2023-04-22 11:51:55,Starter
+310019,YieldMetrics Group 1,Manufacturing,Germany,120,2025-09-16 14:00:14,Business
+854467,Omnisend Partners 1,Healthcare,Netherlands,30,2024-05-14 09:21:07,Growth
+174373,StackBase Networks 1,Retail,Germany,52,2023-01-01 07:39:54,Growth
+556479,InfraPoint Networks 1,Software,Germany,6,2023-09-17 11:00:45,Starter
+736270,Relay Systems Solutions 1,Education,United States,134,2023-06-16 11:59:21,Business
+940445,Amplitude Corp Software 1,Software,Netherlands,12,2023-01-15 15:00:49,Starter
+754948,MeshWorks Networks,Software,Netherlands,226,2024-07-01 08:34:20,Business
+278870,WorksiteOS Digital 1,Financial Services,Brazil,8,2024-12-31 09:55:06,Starter
+301501,PipelineIO Analytics 1,Software,Germany,65,2023-05-31 16:08:28,Growth
+140197,Amplitude Corp Industries 1,Healthcare,Japan,312,2024-10-06 17:25:44,Business
+513477,Amplitude Corp Holdings 1,Financial Services,United Kingdom,67,2024-08-12 16:30:27,Growth
+250089,ZeroFriction Software 1,Healthcare,United States,3,2023-04-05 11:23:45,Starter
+124161,Envoy Platforms Industries,Financial Services,Netherlands,11,2024-08-28 13:51:18,Starter
+627910,Inline Systems Partners 1,Education,United Kingdom,4,2023-07-15 14:29:21,Growth
+902662,ZeroFriction Industries 1,Software,France,3,2025-09-07 19:20:22,Starter
+462096,Keystroke AI Collective 1,Manufacturing,Japan,389,2024-11-16 10:26:32,Business
+486520,LaunchPad HQ Works,Manufacturing,Japan,16,2025-07-27 06:07:50,Starter
+248669,Kinetic AI Partners 1,Retail,United Kingdom,16,2023-09-14 13:55:09,Starter
+944315,Deployly Analytics 1,Software,Germany,37,2023-09-25 17:42:40,Business
+952233,Omnisend Analytics 1,Retail,Australia,27,2024-05-31 10:30:51,Growth
+482349,Amplitude Corp Collective 1,Education,Germany,24,2023-03-02 17:31:57,Starter
+511879,Momentum Tools Software,Manufacturing,France,33,2025-05-19 20:59:03,Growth
+662010,QueryForge Partners 1,Education,Netherlands,14,2024-08-01 08:00:11,Starter
+775696,FunnelSoft Works,Financial Services,Germany,14,2024-02-01 15:40:40,Starter
+634412,TriggerPoint Solutions 1,Software,Brazil,123,2024-06-13 07:31:36,Business
+112651,FlowState Solutions 1,Education,United States,3,2023-03-06 15:14:24,Starter
+960588,Kinetic AI Analytics 1,Software,Germany,4,2023-10-28 15:17:37,Starter
+976274,PipelineIO Solutions 1,Financial Services,United Kingdom,37,2023-12-02 17:41:44,Growth
+208561,ZeroFriction Holdings 1,Financial Services,Japan,24,2023-01-09 09:07:09,Starter
+246475,NexusOne Networks 1,Retail,France,19,2024-08-12 08:22:46,Starter
+164080,Basecamp Analytics Partners 1,Healthcare,Canada,5,2023-11-05 08:00:40,Starter
+977420,NodeSync Industries 1,Healthcare,Japan,11,2025-08-26 13:56:35,Starter
+262644,FunnelSoft Labs 1,Software,Japan,91,2023-11-06 10:05:44,Growth
+207113,Lattice HQ Group 1,Financial Services,Australia,11,2025-03-04 10:18:23,Starter
+515850,Amplitude Corp Works 2,Manufacturing,Brazil,7,2023-05-20 07:42:33,Starter
+232159,Gradient Labs Works 2,Retail,Germany,80,2025-06-04 14:15:01,Business
+991768,Basecamp Analytics Analytics 1,Logistics,United States,15,2025-07-15 08:50:13,Starter
+791209,Momentum Tools Industries,Manufacturing,United Kingdom,42,2025-05-09 17:09:31,Starter
+182485,DataBridge Pro Analytics 1,Manufacturing,Brazil,15,2024-04-23 17:14:29,Starter
+462638,Axiom Labs Collective,Financial Services,United States,204,2023-08-28 12:44:22,Business
+356856,EdgeFlow Technologies Industries,Education,Germany,7,2023-11-16 15:01:09,Starter
+145787,Basecamp Analytics Solutions 1,Education,France,32,2023-10-22 14:13:27,Growth
+175177,LaunchPad HQ Labs 1,Manufacturing,Japan,13,2025-02-07 20:46:52,Starter
+495640,MeshWorks Software,Financial Services,Germany,14,2024-03-01 16:18:36,Starter
+563161,Kinetic AI Solutions 1,Retail,Japan,26,2024-12-10 07:07:11,Growth
+139085,Omnisend Solutions 1,Education,Germany,6,2023-11-05 15:45:29,Starter
+365660,TriggerPoint Networks 1,Software,Australia,48,2023-01-29 13:51:07,Growth
+831195,Amplitude Corp Labs 2,Manufacturing,United States,39,2023-05-27 13:31:59,Growth
+390602,Axiom Labs Works,Education,United States,31,2024-02-08 21:43:27,Growth
+516809,Lattice HQ Technologies 1,Manufacturing,Germany,27,2024-04-12 02:46:09,Growth
+269978,PipelineIO Networks 1,Software,Netherlands,144,2023-03-12 04:28:59,Growth
+575346,Lattice HQ Digital 1,Logistics,Canada,64,2025-08-16 20:15:30,Growth
+622939,Kinetic AI Networks 1,Software,India,27,2025-01-07 12:03:52,Growth
+398864,HorizonSaaS Group 1,Education,United States,42,2023-08-15 06:47:55,Growth
+318214,Gradient Labs Labs 2,Software,Germany,14,2024-09-08 10:20:13,Starter
+603307,Momentum Tools Holdings,Financial Services,Netherlands,18,2024-02-21 13:55:05,Starter
+859443,HubStack Collective 1,Healthcare,Canada,1164,2025-01-09 15:21:13,Enterprise
+359178,NodeSync Holdings 1,Software,Germany,34,2025-01-09 15:40:43,Growth
+675202,NodeSync Collective 1,Software,Australia,701,2024-12-19 15:07:55,Enterprise
+119546,NodeSync Works 2,Education,United States,9,2023-01-23 09:24:57,Starter
+488457,Axiom Labs Labs 1,Financial Services,India,17,2025-05-02 12:34:40,Starter
+262678,Beacon Software Networks 1,Retail,Germany,13,2023-11-03 17:28:25,Starter
+854166,HorizonSaaS Technologies 1,Manufacturing,Australia,30,2024-06-04 08:38:36,Growth
+692089,Lattice HQ Partners 1,Financial Services,India,31,2025-07-11 11:06:04,Growth
+142260,HubStack Works 2,Retail,India,169,2023-10-10 09:51:14,Business
+599218,Envoy Platforms Holdings,Healthcare,India,135,2023-05-19 14:30:39,Business
+661816,Xenon Analytics Collective 1,Financial Services,United States,172,2023-10-21 09:42:38,Growth
+729073,Momentum Tools Collective,Healthcare,United States,57,2025-09-01 14:33:07,Growth
+913140,LaunchPad HQ Systems 1,Manufacturing,Japan,20,2023-04-03 10:13:50,Starter
+213004,Axiom Labs Systems 1,Software,Australia,15,2024-02-15 07:58:22,Starter
+344893,Beacon Software Software 1,Software,Canada,167,2025-03-16 08:59:27,Business
+704101,Inline Systems Analytics 1,Education,United Kingdom,28,2024-01-04 11:12:50,Growth
+978965,Xenon Analytics Works 2,Software,France,42,2024-12-28 11:13:23,Growth
+416815,Momentum Tools Works,Logistics,Japan,83,2024-12-02 10:03:03,Growth
+356711,Xenon Analytics Labs 2,Retail,Germany,42,2024-05-26 09:29:00,Business
+375756,ZeroFriction Collective 1,Logistics,Canada,47,2023-10-11 16:11:27,Growth
+263501,JetMetrics Analytics 1,Manufacturing,United States,9,2025-04-23 18:42:17,Starter
+467325,YieldMetrics Technologies 1,Healthcare,United States,102,2023-08-17 11:29:41,Growth
+155975,Relay Systems Networks 1,Software,Australia,103,2023-01-17 09:52:06,Growth
+896894,Relay Systems Software 1,Software,Japan,132,2025-07-07 15:27:16,Business
+254564,Unified Ops Networks 1,Logistics,Canada,255,2024-05-23 16:05:16,Business
+399159,Junction Cloud Partners 1,Software,Germany,66,2025-06-17 16:01:47,Growth
+600806,FunnelSoft Systems 1,Software,Netherlands,21,2024-07-29 15:44:56,Starter
+404963,GridLogic Software 1,Education,Canada,30,2023-11-22 08:44:37,Growth
+696751,Amplitude Corp Systems 2,Financial Services,United States,14,2024-04-22 12:40:25,Starter
+651612,MeshWorks Industries,Education,Canada,11,2025-04-08 14:22:00,Starter
+399545,Unified Ops Software 1,Financial Services,Brazil,12,2024-03-01 14:27:40,Starter
+425690,ZeroFriction Works 2,Logistics,Canada,3,2023-07-21 08:08:39,Starter
+836465,CloudPeak Systems Partners 1,Retail,Germany,29,2025-06-14 07:14:13,Growth
+444827,FlowState Networks 1,Retail,Germany,7,2024-05-31 07:49:20,Starter
+353738,ZeroFriction Labs 2,Retail,Canada,35,2024-04-11 06:30:56,Growth
+691620,YieldMetrics Digital 1,Financial Services,Australia,3,2023-12-20 15:16:35,Starter
+885767,FlowState Software 1,Software,France,50,2024-12-21 09:21:16,Growth
+661510,Axiom Labs Group 1,Financial Services,Japan,30,2025-08-29 21:12:24,Growth
+289993,NexusOne Software 1,Financial Services,Brazil,25,2024-01-03 21:21:51,Growth
+593883,Inline Systems Solutions 1,Retail,United States,15,2025-05-13 16:31:50,Starter
+700348,Keystroke AI Works 2,Healthcare,India,10,2025-06-23 15:16:53,Starter
+449270,Gradient Labs Systems 2,Software,Netherlands,11,2023-08-19 15:56:31,Starter
+387432,Keystroke AI Labs 2,Healthcare,India,55,2025-09-15 10:35:00,Growth
+232421,YieldMetrics Partners 1,Software,Japan,63,2025-03-18 10:01:29,Growth
+798586,ZeroFriction Systems 2,Manufacturing,United States,190,2024-10-15 12:41:06,Business
+479649,MeshWorks Holdings,Financial Services,Brazil,5,2024-10-28 15:51:42,Starter
+143805,MeshWorks Collective,Healthcare,Australia,85,2025-05-04 15:55:59,Growth
+345589,CloudPeak Systems Analytics 1,Software,United Kingdom,40,2023-05-09 06:54:26,Growth
+224336,Momentum Tools Labs 1,Financial Services,United Kingdom,3,2023-11-28 06:35:34,Starter
+973987,JetMetrics Solutions 1,Healthcare,Australia,16,2024-11-16 13:45:11,Starter
+597592,LaunchPad HQ Group 1,Manufacturing,Japan,34,2023-08-22 18:43:33,Growth
+170902,JetMetrics Networks 1,Education,Netherlands,3,2023-05-29 09:15:11,Starter
+382519,DataBridge Pro Solutions 1,Healthcare,India,17,2024-09-19 14:59:30,Starter
+827874,Xenon Analytics Systems 2,Logistics,India,5,2025-01-20 12:10:00,Starter
+292435,QueryForge Analytics 1,Financial Services,India,52,2024-12-18 20:22:02,Growth
+835797,Beacon Software Industries 1,Software,Canada,49,2024-02-18 10:40:04,Growth
+219926,PipelineIO Software 1,Education,India,159,2023-04-07 11:53:24,Business
+453260,Xenon Analytics Group 2,Healthcare,Australia,55,2023-09-04 13:11:42,Growth
+203951,Unified Ops Industries 1,Software,United Kingdom,91,2023-08-04 03:24:54,Growth
+992229,Beacon Software Holdings 1,Retail,United States,174,2024-11-04 14:02:59,Business
+346678,StackBase Software 1,Education,Canada,106,2025-05-12 20:56:23,Growth
+515718,LaunchPad HQ Technologies 1,Healthcare,Germany,34,2023-07-23 07:57:39,Growth
+687595,EdgeFlow Technologies Holdings,Education,United States,45,2024-06-16 14:06:09,Business
+543184,Lattice HQ Analytics 1,Financial Services,Netherlands,21,2023-12-10 10:17:07,Starter
+475777,Catalyst CRM Networks 1,Logistics,Canada,17,2025-08-09 15:42:10,Starter
+574882,FunnelSoft Group 1,Software,United Kingdom,21,2025-02-20 11:17:51,Starter
+592127,Deployly Solutions 1,Software,Netherlands,3,2024-09-12 08:59:48,Starter
+554320,Envoy Platforms Collective,Financial Services,Canada,340,2023-02-13 12:30:53,Business
+991572,Unified Ops Holdings 1,Education,India,100,2023-08-07 08:31:00,Growth
+393197,Envoy Platforms Works,Manufacturing,Australia,32,2023-06-27 18:42:21,Growth
+706802,Unified Ops Collective 1,Healthcare,India,76,2023-01-14 08:33:47,Growth
+372607,QueryForge Solutions 1,Manufacturing,Netherlands,31,2025-06-30 18:54:22,Growth
+828822,Axiom Labs Technologies 1,Software,Canada,259,2023-06-12 17:52:25,Business
+815721,YieldMetrics Analytics 1,Healthcare,Australia,3,2024-06-12 14:46:16,Starter
+511470,HubStack Labs 2,Manufacturing,Japan,205,2024-01-20 13:05:57,Business
+938120,Unified Ops Works 2,Healthcare,Brazil,25,2025-02-11 13:17:57,Growth
+550331,InfraPoint Software 1,Healthcare,Germany,21,2023-08-27 10:19:09,Starter
+316635,Relay Systems Industries 1,Education,Germany,442,2023-12-19 12:41:07,Growth
+201572,LaunchPad HQ Digital 1,Software,Brazil,38,2025-09-22 13:26:24,Growth
+644475,DataBridge Pro Networks 1,Retail,Germany,5,2023-05-27 15:20:34,Starter
+705867,Relay Systems Holdings 1,Manufacturing,Canada,155,2023-09-23 08:27:47,Business
+372638,Omnisend Networks 1,Healthcare,Germany,11,2024-09-26 08:47:50,Starter
+983961,PipelineIO Industries 1,Software,India,64,2025-06-06 10:14:29,Growth
+111647,TriggerPoint Software 1,Manufacturing,Canada,853,2023-02-09 10:12:57,Enterprise
+694103,Basecamp Analytics Networks 1,Retail,Australia,20,2024-12-04 11:01:45,Starter
+856439,HorizonSaaS Digital 1,Software,Australia,9,2023-06-13 16:45:21,Starter
+858842,YieldMetrics Solutions 1,Healthcare,Canada,25,2024-06-24 13:58:46,Growth
+966960,Amplitude Corp Group 2,Software,United Kingdom,36,2023-10-05 10:10:10,Growth
+624691,HorizonSaaS Partners 1,Healthcare,Brazil,33,2025-01-06 13:41:11,Growth
+751178,StackBase Industries 1,Software,Australia,311,2024-08-20 08:10:18,Business
+749734,VaultStream Digital 1,Software,Canada,15,2024-05-24 10:20:22,Starter
+535256,InfraPoint Industries 1,Software,Canada,35,2024-10-08 14:17:03,Growth
+826663,Keystroke AI Systems 2,Software,Japan,135,2023-12-01 13:06:27,Business
+491257,Envoy Platforms Labs 1,Retail,France,28,2023-05-29 12:50:57,Growth
+951176,Inline Systems Networks 1,Retail,Germany,13,2024-02-28 09:44:06,Starter
+938137,CloudPeak Systems Solutions 1,Software,Japan,32,2023-08-16 18:40:16,Growth
+178553,Momentum Tools Systems 1,Education,United States,11,2024-05-10 10:15:40,Starter
+929449,Axiom Labs Digital 1,Healthcare,Australia,339,2023-02-18 21:40:58,Growth
+474120,DataBridge Pro Software 1,Software,India,27,2023-02-05 15:49:18,Growth
+624539,Junction Cloud Analytics 1,Logistics,France,8,2024-04-13 21:26:41,Starter
+942582,EdgeFlow Technologies Collective,Healthcare,Netherlands,11,2024-03-05 18:57:15,Starter
+355983,HubStack Systems 2,Logistics,Canada,73,2024-10-27 11:11:33,Growth
+237570,ZeroFriction Group 2,Software,Canada,68,2023-04-11 10:54:13,Growth
+811779,HubStack Group 2,Healthcare,France,11,2024-12-28 13:08:20,Starter
+517173,MeshWorks Works,Software,Germany,25,2023-09-08 08:17:27,Growth
+618509,StackBase Holdings 1,Retail,Canada,25,2023-07-14 15:41:43,Growth
+179049,Axiom Labs Partners 1,Manufacturing,India,81,2025-04-22 08:38:10,Growth
+674609,GridLogic Industries 1,Retail,United States,6,2024-06-29 11:30:59,Starter
+152728,TriggerPoint Industries 1,Software,India,128,2024-04-05 06:57:09,Enterprise
+182564,HorizonSaaS Analytics 1,Software,Netherlands,11,2023-05-29 19:25:32,Starter
+555768,VaultStream Partners 1,Logistics,India,25,2023-08-08 15:57:36,Growth
+493447,CloudPeak Systems Networks 1,Software,Canada,216,2023-05-06 12:51:11,Business
+223459,Basecamp Analytics Software 1,Retail,Japan,9,2025-06-27 08:57:25,Starter
+345955,Junction Cloud Solutions 1,Manufacturing,Brazil,50,2023-11-29 16:10:57,Growth
+452579,HubStack Technologies 2,Manufacturing,Australia,13,2023-04-28 09:37:18,Starter
+712131,Kinetic AI Software 1,Financial Services,India,96,2024-03-25 15:02:51,Growth
+364714,Momentum Tools Group 1,Financial Services,United States,8,2023-09-28 17:15:33,Starter
+779884,GridLogic Holdings 1,Logistics,Japan,153,2024-03-08 13:48:13,Business
+437273,JetMetrics Software 1,Logistics,Canada,18,2024-01-11 08:48:02,Starter
+321951,YieldMetrics Networks 1,Education,United Kingdom,3,2023-05-14 09:06:26,Starter
+140321,Deployly Networks 1,Software,United States,68,2024-04-26 08:47:40,Growth
+662368,DataBridge Pro Industries 1,Healthcare,Australia,8,2023-11-10 09:37:21,Starter
+481953,InfraPoint Holdings 1,Financial Services,United States,352,2023-05-08 08:02:53,Business
+676603,Keystroke AI Group 2,Software,India,11,2025-05-30 15:03:38,Growth
+269728,Inline Systems Software 1,Healthcare,United Kingdom,75,2023-05-30 11:08:18,Business
+349634,ZeroFriction Technologies 2,Manufacturing,United States,301,2023-02-24 18:56:30,Business
+170254,Unified Ops Labs 2,Manufacturing,India,27,2023-02-27 08:23:45,Growth
+918212,DataBridge Pro Holdings 1,Financial Services,India,132,2025-06-21 14:10:38,Business
+541269,JetMetrics Industries 1,Software,India,32,2024-06-24 23:24:02,Growth
+209127,LaunchPad HQ Partners 1,Manufacturing,United Kingdom,369,2025-06-05 16:53:36,Business
+832087,Lattice HQ Solutions 1,Manufacturing,Brazil,31,2025-05-17 17:51:55,Growth
+302271,LaunchPad HQ Analytics 1,Manufacturing,United Kingdom,256,2025-03-20 14:52:58,Business
+507445,NodeSync Labs 2,Software,India,56,2025-08-12 13:05:15,Growth
+533010,Kinetic AI Industries 1,Healthcare,Japan,35,2024-08-22 19:45:49,Growth
+334270,Omnisend Software 1,Manufacturing,United States,269,2023-09-07 14:58:29,Business
+267533,NodeSync Systems 2,Retail,Netherlands,52,2024-10-05 08:09:41,Growth
+850797,NexusOne Industries 1,Retail,Brazil,13,2024-04-19 13:42:58,Starter
+443866,Lattice HQ Networks 1,Education,Canada,3,2024-06-09 13:55:10,Starter
+473143,StackBase Collective 1,Software,France,19,2023-08-24 21:55:35,Starter
+925364,HorizonSaaS Solutions 1,Financial Services,United Kingdom,26,2025-06-17 13:36:48,Growth
+644920,Junction Cloud Networks 1,Software,United States,25,2024-10-22 13:33:41,Growth
+950873,LaunchPad HQ Solutions 1,Healthcare,France,26,2023-09-04 10:33:22,Growth
+554336,FlowState Industries 1,Logistics,Australia,16,2024-04-28 16:04:30,Starter
+358468,Relay Systems Collective 1,Healthcare,Germany,204,2023-01-13 09:26:52,Growth
+757620,GridLogic Collective 1,Healthcare,Japan,2232,2023-07-26 09:45:42,Enterprise
+872833,DataBridge Pro Collective 1,Software,United States,3,2023-05-08 13:48:58,Starter
+723271,Kinetic AI Holdings 1,Financial Services,United States,106,2025-08-20 10:57:50,Growth
+988431,Gradient Labs Group 2,Software,India,3,2024-05-30 16:42:00,Starter
+870010,Beacon Software Collective 1,Financial Services,France,60,2024-03-10 10:19:56,Growth
+640065,WorksiteOS Partners 1,Software,France,8,2023-08-31 11:52:58,Starter
+301959,JetMetrics Holdings 1,Software,Germany,95,2023-01-12 09:23:40,Growth
+548818,NodeSync Group 2,Financial Services,Canada,32,2025-07-28 11:48:56,Growth
+663216,Lattice HQ Software 1,Healthcare,Australia,62,2023-12-21 10:24:47,Growth
+470492,Basecamp Analytics Industries 1,Retail,Netherlands,394,2023-02-09 14:36:53,Growth
+602857,Xenon Analytics Technologies 2,Financial Services,Japan,14,2025-03-25 14:07:49,Starter
+775589,Axiom Labs Analytics 1,Software,Canada,35,2025-03-01 14:21:26,Growth
+400628,GridLogic Works 2,Software,Japan,3,2024-03-02 14:32:57,Starter
+746335,Inline Systems Industries 1,Software,Canada,4,2025-08-02 03:39:16,Starter
+260444,Catalyst CRM Software 1,Software,Germany,94,2024-02-24 18:58:27,Growth
+579749,JetMetrics Collective 1,Education,Australia,11,2025-05-22 13:41:39,Starter
+790797,QueryForge Networks 1,Healthcare,Canada,11,2024-10-03 08:32:39,Starter
+600864,StackBase Works 2,Financial Services,France,7,2024-02-23 13:21:50,Starter
+540749,MeshWorks Labs 1,Financial Services,Germany,5,2023-12-21 11:38:16,Starter
+641276,Relay Systems Works 2,Software,India,29,2024-09-12 19:52:03,Growth
+490866,Catalyst CRM Industries 1,Education,Germany,64,2023-03-19 11:09:11,Growth
+393007,GridLogic Labs 2,Manufacturing,Japan,3,2023-04-02 07:49:02,Starter
+179746,Amplitude Corp Technologies 2,Healthcare,Japan,3,2024-01-26 09:01:23,Starter
+138819,Xenon Analytics Digital 2,Financial Services,France,9,2024-05-01 14:28:46,Starter
+889010,MeshWorks Systems 1,Software,Canada,34,2024-11-21 09:18:13,Growth
+876153,DataBridge Pro Works 2,Software,Brazil,5,2025-03-09 16:09:37,Starter
+461906,Basecamp Analytics Holdings 1,Software,Netherlands,4,2024-07-28 09:36:34,Starter
+194356,Kinetic AI Collective 1,Healthcare,Canada,20,2025-08-23 13:15:28,Starter
+445354,Inline Systems Holdings 1,Software,Netherlands,19,2024-08-15 12:51:42,Starter
+295334,MeshWorks Group 1,Healthcare,United States,66,2024-06-21 08:01:37,Growth
+236797,Envoy Platforms Systems 1,Healthcare,Canada,20,2025-04-11 20:39:09,Starter
+309198,NodeSync Technologies 2,Software,Australia,3,2025-05-26 15:54:37,Starter
+205373,YieldMetrics Software 1,Software,Brazil,35,2023-08-05 08:54:53,Business
+805850,DataBridge Pro Labs 2,Software,Canada,57,2023-10-14 13:04:05,Growth
+557850,JetMetrics Works 2,Software,United Kingdom,99,2023-10-25 12:10:44,Business
+378702,Omnisend Industries 1,Software,Canada,11,2024-12-30 16:08:08,Starter
+242844,Basecamp Analytics Collective 1,Software,United Kingdom,270,2023-04-04 23:08:21,Business
+407884,MeshWorks Technologies 1,Manufacturing,India,367,2024-06-09 08:06:00,Business
+891033,PipelineIO Holdings 1,Manufacturing,France,12,2024-10-08 08:29:57,Starter
+209357,CloudPeak Systems Software 1,Manufacturing,France,3,2025-09-09 17:27:04,Starter
+417896,Amplitude Corp Digital 2,Retail,United States,33,2023-06-16 22:15:21,Growth
+508782,FlowState Holdings 1,Education,Japan,14,2023-12-09 02:36:05,Starter
+359909,ZeroFriction Digital 2,Software,France,28,2025-02-10 12:11:26,Growth
+776288,NexusOne Holdings 1,Healthcare,Netherlands,54,2023-08-30 08:06:29,Growth
+129145,CloudPeak Systems Industries 1,Retail,Japan,35,2023-09-24 18:58:09,Growth
+241116,Lattice HQ Industries 1,Education,Canada,13,2023-05-11 03:48:25,Starter
+335302,Xenon Analytics Partners 2,Financial Services,Canada,22,2024-10-14 11:11:54,Starter
+108606,MeshWorks Digital 1,Software,India,25,2023-04-25 11:01:48,Growth
+910761,Momentum Tools Technologies 1,Retail,Canada,156,2025-01-19 11:04:41,Business
+726509,JetMetrics Labs 2,Manufacturing,France,8,2024-10-17 12:04:00,Starter
+188341,Inline Systems Collective 1,Software,Australia,13,2024-03-18 15:44:55,Starter
+323646,TriggerPoint Holdings 1,Software,Netherlands,40,2024-02-01 11:46:03,Growth
+416704,Envoy Platforms Group 1,Retail,France,18,2023-02-22 04:23:57,Starter
+119727,TriggerPoint Collective 1,Financial Services,Netherlands,34,2023-02-27 16:47:39,Growth
+400614,PipelineIO Collective 1,Logistics,Japan,11,2025-09-21 07:11:04,Starter
+108657,Basecamp Analytics Works 2,Financial Services,Germany,32,2025-04-11 07:55:39,Growth
+557608,Basecamp Analytics Labs 2,Software,United Kingdom,83,2025-08-13 07:43:44,Growth
+404631,Lattice HQ Holdings 1,Retail,Germany,62,2024-08-15 10:52:27,Growth
+132627,FlowState Collective 1,Financial Services,India,5,2024-11-26 12:02:50,Starter
+516677,EdgeFlow Technologies Works,Logistics,Netherlands,67,2025-08-24 17:26:28,Growth
+544215,MeshWorks Partners 1,Retail,Canada,25,2025-03-29 14:34:34,Growth
+567592,Xenon Analytics Analytics 2,Software,Netherlands,42,2023-02-26 08:29:33,Growth
+359578,DataBridge Pro Systems 2,Retail,India,15,2024-08-04 09:47:07,Starter
+189198,QueryForge Software 1,Financial Services,Australia,15,2024-02-20 08:37:28,Starter
+156588,EdgeFlow Technologies Labs 1,Education,Brazil,176,2024-09-12 11:41:47,Growth
+199248,Basecamp Analytics Systems 2,Retail,Brazil,216,2025-08-22 13:02:39,Business
+909042,NodeSync Digital 2,Education,United States,18,2024-10-04 09:28:33,Starter
+136425,Keystroke AI Technologies 2,Software,India,6,2024-12-08 10:00:12,Starter
+725693,HorizonSaaS Networks 1,Education,Netherlands,37,2024-01-01 15:19:56,Growth
+277459,Amplitude Corp Partners 2,Retail,India,94,2025-05-06 13:10:44,Growth
+114026,HorizonSaaS Software 1,Software,Japan,18,2025-06-21 15:48:48,Starter
+416221,Catalyst CRM Holdings 1,Manufacturing,Australia,568,2023-05-16 02:28:53,Business
+560307,QueryForge Industries 1,Retail,Netherlands,3,2024-05-31 09:44:59,Starter
+112840,StackBase Labs 2,Software,Brazil,11,2024-08-01 11:08:57,Starter
+870241,Axiom Labs Solutions 1,Healthcare,Japan,17,2025-02-10 14:39:00,Starter
+653379,NexusOne Collective 1,Education,India,38,2023-12-06 12:15:59,Growth
+379292,NexusOne Works 2,Manufacturing,Canada,76,2023-02-14 08:12:37,Business
+731867,Lattice HQ Collective 1,Financial Services,Japan,87,2025-05-01 17:39:46,Growth
+304113,Envoy Platforms Technologies 1,Logistics,United States,90,2024-05-15 07:44:13,Growth
+750844,MeshWorks Analytics 1,Logistics,Australia,29,2025-04-29 08:00:52,Growth
+540498,FlowState Works 2,Healthcare,India,29,2023-10-16 10:50:29,Growth
+861024,Omnisend Holdings 1,Software,United States,58,2024-05-06 19:26:10,Growth
+295860,Catalyst CRM Collective 1,Manufacturing,India,7,2024-03-15 09:18:40,Starter
+511497,FlowState Labs 2,Manufacturing,United Kingdom,44,2023-11-20 17:48:52,Growth
+125807,Xenon Analytics Solutions 2,Retail,Germany,96,2024-06-03 16:24:58,Growth
+930786,InfraPoint Collective 1,Healthcare,Brazil,47,2023-04-28 08:57:49,Growth
+158251,Inline Systems Works 2,Manufacturing,United States,27,2024-05-29 07:03:02,Growth
+734573,MeshWorks Solutions 1,Financial Services,India,73,2023-02-09 09:04:09,Growth
+154626,EdgeFlow Technologies Systems 1,Healthcare,India,64,2023-12-09 14:44:55,Growth
+435506,HorizonSaaS Industries 1,Software,United Kingdom,42,2024-08-21 15:30:52,Growth
+975237,NexusOne Labs 2,Education,India,118,2023-01-09 11:08:18,Growth
+376354,PipelineIO Works 2,Healthcare,Germany,8,2024-05-30 15:58:27,Starter
+361379,PipelineIO Labs 2,Healthcare,France,41,2024-01-17 08:00:39,Growth
+393626,NodeSync Partners 2,Manufacturing,Netherlands,65,2024-06-19 08:01:58,Growth
+877896,Relay Systems Labs 2,Logistics,Japan,7,2023-12-20 04:58:53,Starter
+950543,NodeSync Analytics 2,Financial Services,Netherlands,23,2024-03-16 07:04:04,Starter
+256019,Deployly Software 1,Healthcare,India,38,2023-12-22 07:03:43,Growth
+597746,Unified Ops Systems 2,Education,United Kingdom,23,2025-04-23 09:05:36,Starter
+153122,Unified Ops Group 2,Healthcare,United States,22,2023-05-11 08:10:39,Starter
+833504,Catalyst CRM Works 2,Manufacturing,India,122,2025-03-16 21:06:23,Business
+873644,InfraPoint Works 2,Healthcare,Japan,45,2023-10-08 16:09:13,Growth
+359748,InfraPoint Labs 2,Software,United Kingdom,72,2024-09-25 16:08:53,Growth
+668059,FunnelSoft Technologies 1,Retail,Germany,36,2025-03-26 16:04:02,Starter
+186866,StackBase Systems 2,Software,Canada,53,2023-10-08 08:03:59,Growth
+201820,YieldMetrics Industries 1,Retail,India,269,2024-11-01 15:39:47,Business
+350292,QueryForge Holdings 1,Healthcare,United States,15,2023-04-12 05:34:58,Starter
+318405,CloudPeak Systems Holdings 1,Manufacturing,United Kingdom,23,2024-02-27 08:20:37,Starter
+353111,LaunchPad HQ Networks 1,Retail,Brazil,38,2024-05-25 23:54:13,Growth
+797764,Unified Ops Technologies 2,Financial Services,France,13,2024-09-14 16:41:56,Starter
+609487,Gradient Labs Technologies 2,Education,Australia,44,2023-04-29 07:06:17,Business
+841724,Momentum Tools Digital 1,Healthcare,France,475,2024-09-04 17:01:38,Business
+604126,LaunchPad HQ Software 1,Software,Netherlands,8,2025-03-25 07:46:46,Starter
+848451,WorksiteOS Analytics 1,Software,India,173,2025-03-17 14:29:09,Growth
+376850,Beacon Software Works 2,Software,United Kingdom,22,2023-10-25 18:25:10,Starter
+805943,NexusOne Systems 2,Financial Services,Japan,23,2023-05-04 13:20:18,Starter
+217404,Deployly Industries 1,Financial Services,Australia,4,2024-10-03 08:05:10,Starter
+466834,DataBridge Pro Group 2,Retail,Australia,56,2024-08-15 08:15:54,Growth
+662023,InfraPoint Systems 2,Software,Japan,18,2023-06-27 16:42:27,Starter
+820834,StackBase Group 2,Retail,United States,55,2025-09-23 13:19:47,Growth
+526874,ZeroFriction Partners 2,Manufacturing,United Kingdom,82,2024-02-21 13:13:57,Growth
+335130,EdgeFlow Technologies Group 1,Financial Services,Australia,14,2023-05-10 08:47:25,Growth
+968217,LaunchPad HQ Industries 1,Financial Services,Netherlands,16,2023-09-07 05:47:33,Starter
+757349,Keystroke AI Digital 2,Manufacturing,Canada,164,2023-10-16 08:12:55,Enterprise
+637831,Keystroke AI Partners 2,Logistics,Brazil,71,2025-01-22 10:31:41,Growth
+284939,Envoy Platforms Digital 1,Software,France,21,2024-03-27 13:16:48,Starter
+943858,EdgeFlow Technologies Technologies 1,Healthcare,Netherlands,43,2023-10-24 08:23:27,Growth
+952114,JetMetrics Systems 2,Software,Japan,253,2024-04-29 13:38:00,Business
+164239,Lattice HQ Works 2,Retail,France,3,2024-06-30 04:00:14,Starter
+466636,Junction Cloud Software 1,Software,Japan,25,2024-04-04 17:43:26,Starter
+975101,Amplitude Corp Analytics 2,Financial Services,Japan,5,2025-01-18 13:19:52,Starter
+198116,YieldMetrics Holdings 1,Manufacturing,United States,55,2025-07-22 09:03:17,Growth
+165039,Momentum Tools Partners 1,Financial Services,France,157,2025-06-04 20:42:30,Business
+676881,FunnelSoft Digital 1,Software,United Kingdom,19,2024-10-03 13:55:57,Starter
+580725,CloudPeak Systems Collective 1,Education,Australia,18,2025-01-02 10:35:37,Starter
+457960,Unified Ops Digital 2,Manufacturing,Brazil,3,2025-07-11 14:34:26,Starter
+537263,Catalyst CRM Labs 2,Logistics,United Kingdom,36,2025-09-25 14:38:21,Growth
+892691,HubStack Digital 2,Healthcare,Germany,65,2025-07-30 07:29:32,Growth
+862228,Relay Systems Systems 2,Healthcare,Brazil,7,2025-01-09 16:14:22,Starter
+371569,Unified Ops Partners 2,Financial Services,France,77,2024-07-28 09:07:19,Growth
+209680,Xenon Analytics Networks 2,Healthcare,Brazil,16,2024-09-17 06:21:55,Starter
+431016,FlowState Systems 2,Logistics,India,16,2025-09-02 16:15:06,Starter
+374056,Omnisend Collective 1,Retail,India,19,2025-09-07 12:59:26,Growth
+513019,DataBridge Pro Technologies 2,Healthcare,Canada,96,2024-08-29 08:11:35,Growth
+315012,StackBase Technologies 2,Financial Services,Netherlands,143,2025-07-26 11:42:05,Business
+914996,Momentum Tools Analytics 1,Software,United Kingdom,114,2024-05-11 08:23:40,Growth
+547854,Omnisend Works 2,Software,United Kingdom,33,2024-07-09 11:11:20,Growth
+343808,TriggerPoint Works 2,Manufacturing,Netherlands,6,2024-06-19 22:37:48,Starter
+183180,Deployly Holdings 1,Logistics,United Kingdom,35,2023-01-09 14:45:52,Growth
+631096,LaunchPad HQ Holdings 1,Software,United States,3,2023-11-20 07:50:34,Starter
+139506,Kinetic AI Works 2,Financial Services,Brazil,22,2025-05-06 10:46:21,Starter
+626504,VaultStream Analytics 1,Retail,United Kingdom,22,2023-09-28 10:21:51,Starter
+114128,WorksiteOS Solutions 1,Financial Services,United Kingdom,3,2023-01-12 10:33:57,Starter
+314615,NodeSync Solutions 2,Education,United Kingdom,13,2023-09-22 12:59:58,Starter
+881378,Omnisend Labs 2,Retail,Canada,7,2024-06-27 09:21:44,Starter
+893484,NodeSync Networks 2,Software,France,65,2023-08-08 09:05:17,Growth
+914638,Axiom Labs Networks 1,Software,Canada,21,2025-06-27 15:49:27,Starter
+310258,Keystroke AI Analytics 2,Software,United States,7,2023-07-29 13:49:00,Starter
+695044,Catalyst CRM Systems 2,Financial Services,France,120,2025-08-18 04:34:52,Business
+203860,Amplitude Corp Solutions 2,Retail,Australia,29,2025-04-15 12:08:45,Growth
+606858,Axiom Labs Software 1,Manufacturing,India,19,2025-05-24 18:56:06,Starter
+192010,GridLogic Systems 2,Healthcare,Canada,160,2025-08-22 13:53:30,Business
+618152,Amplitude Corp Networks 2,Financial Services,Netherlands,204,2025-08-29 15:01:17,Business
+791336,NexusOne Group 2,Healthcare,France,37,2023-12-08 11:40:55,Growth
+807582,Deployly Collective 1,Retail,Australia,27,2024-11-15 09:32:54,Growth
+603274,Deployly Works 2,Software,Brazil,3,2024-04-30 16:47:16,Starter
+504630,Amplitude Corp Software 2,Software,Germany,11,2025-07-24 14:03:41,Growth
+409157,Unified Ops Analytics 2,Healthcare,Brazil,19,2025-01-09 17:01:50,Starter
+544253,VaultStream Solutions 1,Software,Germany,16,2025-05-21 18:58:14,Starter
+847561,Relay Systems Group 2,Logistics,Germany,15,2024-10-08 12:07:29,Starter
+537536,Momentum Tools Solutions 1,Software,United States,88,2024-12-31 17:20:01,Growth
+304962,Beacon Software Labs 2,Logistics,France,549,2024-01-06 10:15:32,Business
+256231,Relay Systems Technologies 2,Logistics,United Kingdom,81,2023-04-25 15:15:28,Growth
+505710,CloudPeak Systems Works 2,Software,Netherlands,100,2025-02-19 16:42:24,Growth
+210552,EdgeFlow Technologies Digital 1,Financial Services,United Kingdom,334,2025-09-11 12:46:34,Business
+902347,NodeSync Software 2,Logistics,United States,132,2024-07-23 14:21:30,Business
+185683,QueryForge Collective 1,Financial Services,United Kingdom,334,2025-01-03 08:16:28,Business
+970778,LaunchPad HQ Collective 1,Manufacturing,Japan,29,2024-11-13 12:14:19,Growth
+641547,MeshWorks Networks 1,Software,India,79,2023-09-05 07:09:25,Growth
+197488,InfraPoint Group 2,Manufacturing,Japan,243,2024-01-19 13:45:23,Growth
+604851,Catalyst CRM Group 2,Software,United States,3,2025-08-20 15:41:02,Starter
+441439,QueryForge Works 2,Software,Australia,18,2025-02-06 11:40:39,Starter
+600525,Relay Systems Digital 2,Manufacturing,Japan,74,2025-08-22 10:32:17,Growth
+693331,Lattice HQ Labs 2,Logistics,France,20,2023-08-10 09:04:53,Starter
+597040,Gradient Labs Digital 2,Healthcare,United States,9,2024-02-24 07:10:37,Starter
+284692,StackBase Digital 2,Software,France,68,2025-05-20 11:29:34,Growth
+430738,EdgeFlow Technologies Partners 1,Manufacturing,Brazil,16,2023-07-02 14:08:45,Starter
+917868,StackBase Partners 2,Retail,Brazil,6,2025-09-23 12:23:25,Starter
+133243,Catalyst CRM Technologies 2,Healthcare,France,13,2025-09-21 20:50:11,Starter
+296755,HorizonSaaS Holdings 1,Financial Services,United States,11,2023-11-09 15:04:29,Starter
+225448,Kinetic AI Labs 2,Healthcare,Netherlands,220,2023-04-24 09:28:24,Business
+928274,EdgeFlow Technologies Analytics 1,Software,Netherlands,30,2023-04-28 01:31:17,Growth
+289034,FunnelSoft Partners 1,Manufacturing,India,55,2024-10-11 20:55:21,Starter
+153452,Amplitude Corp Industries 2,Healthcare,France,22,2025-02-16 12:22:01,Starter
+572896,CloudPeak Systems Labs 2,Software,Canada,4,2023-10-16 23:09:15,Starter
+245270,Unified Ops Solutions 2,Healthcare,Australia,9,2023-07-12 12:39:35,Starter

@@ -2,7 +2,7 @@
 
 An Exploratory Data Analysis (EDA) project focused on understanding customer churn, revenue patterns, billing behavior, and customer support performance in a B2B Software-as-a-Service (SaaS) business.
 
----
+
 
 ## 📌 Project Overview
 
@@ -21,7 +21,7 @@ This project analyzes multiple interconnected operational datasets to identify p
 
 The analysis was performed using Python and focuses on transforming raw operational data into meaningful business insights.
 
----
+
 
 ## 🎯 Project Objectives
 
@@ -36,7 +36,7 @@ The main objectives of this project are:
 7. Identify operational factors that could potentially be associated with customer churn.
 8. Define possible next steps for building a customer health and churn prediction system.
 
----
+
 
 ## 🛠️ Tech Stack
 
@@ -54,7 +54,7 @@ The main objectives of this project are:
 - Seaborn
 - OpenPyXL
 
----
+
 
 ## 📂 Dataset Overview
 
@@ -70,7 +70,7 @@ The project uses five core operational datasets.
 
 The datasets are connected primarily through the `account_id` field, which allows customer-level analysis across different operational areas.
 
----
+
 
 ## 🔗 Data Relationships
 
